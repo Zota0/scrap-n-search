@@ -1,0 +1,9 @@
+/rewrite/target/
+/rewrite/target/*
+
+/svelte/__pycache__
+/svelte/search.html
+
+
+
+sqlite.session.sql

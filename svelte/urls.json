@@ -1,0 +1,3348 @@
+[
+  {
+    "url": "https://svelte.dev/",
+    "title": "Svelte • Web development for the rest of us",
+    "found_at": "https://svelte.dev/docs/cli/",
+    "timestamp": "2024-11-14T22:59:46.820048200Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://svelte.dev/#main",
+    "title": "Svelte • Web development for the rest of us",
+    "found_at": "https://svelte.dev/",
+    "timestamp": "2024-11-14T22:59:50.989394600Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://svelte.dev/blog",
+    "title": "Blog • Svelte",
+    "found_at": "https://svelte.dev/docs/cli/",
+    "timestamp": "2024-11-14T22:59:48.707513200Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://svelte.dev/chat",
+    "title": "Svelte",
+    "found_at": "https://svelte.dev/docs/cli/",
+    "timestamp": "2024-11-14T22:59:49.477305800Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://svelte.dev/docs",
+    "title": "https://svelte.dev/docs",
+    "found_at": "https://svelte.dev/docs/cli/",
+    "timestamp": "2024-11-14T22:59:47.019460500Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://svelte.dev/docs#main",
+    "title": "https://svelte.dev/docs#main",
+    "found_at": "https://svelte.dev/docs",
+    "timestamp": "2024-11-14T22:59:51.139130100Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://svelte.dev/docs/cli",
+    "title": "Overview • Docs • Svelte",
+    "found_at": "https://svelte.dev/docs/cli/",
+    "timestamp": "2024-11-14T22:59:47.785039300Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://svelte.dev/docs/cli/",
+    "title": "Overview • Docs • Svelte",
+    "found_at": "starting_point",
+    "timestamp": "2024-11-14T22:59:46.471040700Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://svelte.dev/docs/cli/#Acknowledgements",
+    "title": "Overview • Docs • Svelte",
+    "found_at": "https://svelte.dev/docs/cli/",
+    "timestamp": "2024-11-14T22:59:50.833980700Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://svelte.dev/docs/cli/#Usage",
+    "title": "Overview • Docs • Svelte",
+    "found_at": "https://svelte.dev/docs/cli/",
+    "timestamp": "2024-11-14T22:59:50.648134800Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://svelte.dev/docs/cli/#main",
+    "title": "Overview • Docs • Svelte",
+    "found_at": "https://svelte.dev/docs/cli/",
+    "timestamp": "2024-11-14T22:59:46.664806200Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://svelte.dev/docs/cli/overview",
+    "title": "Overview • Docs • Svelte",
+    "found_at": "https://svelte.dev/docs/cli/",
+    "timestamp": "2024-11-14T22:59:49.770242600Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://svelte.dev/docs/cli/sv-add",
+    "title": "sv add • Docs • Svelte",
+    "found_at": "https://svelte.dev/docs/cli/",
+    "timestamp": "2024-11-14T22:59:50.093590Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://svelte.dev/docs/cli/sv-check",
+    "title": "sv check • Docs • Svelte",
+    "found_at": "https://svelte.dev/docs/cli/",
+    "timestamp": "2024-11-14T22:59:50.257911200Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://svelte.dev/docs/cli/sv-create",
+    "title": "sv create • Docs • Svelte",
+    "found_at": "https://svelte.dev/docs/cli/",
+    "timestamp": "2024-11-14T22:59:49.929670400Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://svelte.dev/docs/cli/sv-migrate",
+    "title": "sv migrate • Docs • Svelte",
+    "found_at": "https://svelte.dev/docs/cli/",
+    "timestamp": "2024-11-14T22:59:50.408306700Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://svelte.dev/docs/kit",
+    "title": "Introduction • Docs • Svelte",
+    "found_at": "https://svelte.dev/docs/cli/",
+    "timestamp": "2024-11-14T22:59:47.590658200Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://svelte.dev/docs/kit#main",
+    "title": "Introduction • Docs • Svelte",
+    "found_at": "https://svelte.dev/docs/kit",
+    "timestamp": "2024-11-14T23:00:06.753275500Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://svelte.dev/docs/kit/",
+    "title": "Introduction • Docs • Svelte",
+    "found_at": "starting_point",
+    "timestamp": "2024-11-14T23:00:07.257222500Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://svelte.dev/docs/kit/#Before-we-begin",
+    "title": "Introduction • Docs • Svelte",
+    "found_at": "https://svelte.dev/docs/kit/",
+    "timestamp": "2024-11-14T23:00:23.521301500Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://svelte.dev/docs/kit/#SvelteKit-vs-Svelte",
+    "title": "Introduction • Docs • Svelte",
+    "found_at": "https://svelte.dev/docs/kit/",
+    "timestamp": "2024-11-14T23:00:24.287046900Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://svelte.dev/docs/kit/#What-is-Svelte",
+    "title": "Introduction • Docs • Svelte",
+    "found_at": "https://svelte.dev/docs/kit/",
+    "timestamp": "2024-11-14T23:00:24.032762300Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://svelte.dev/docs/kit/#What-is-SvelteKit",
+    "title": "Introduction • Docs • Svelte",
+    "found_at": "https://svelte.dev/docs/kit/",
+    "timestamp": "2024-11-14T23:00:23.735357500Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://svelte.dev/docs/kit/#main",
+    "title": "Introduction • Docs • Svelte",
+    "found_at": "https://svelte.dev/docs/kit/",
+    "timestamp": "2024-11-14T23:00:07.556302700Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://svelte.dev/docs/kit/$app-environment",
+    "title": "$app/environment • Docs • Svelte",
+    "found_at": "https://svelte.dev/docs/kit/",
+    "timestamp": "2024-11-14T23:00:20.632411800Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://svelte.dev/docs/kit/$app-forms",
+    "title": "$app/forms • Docs • Svelte",
+    "found_at": "https://svelte.dev/docs/kit/",
+    "timestamp": "2024-11-14T23:00:20.823775100Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://svelte.dev/docs/kit/$app-navigation",
+    "title": "$app/navigation • Docs • Svelte",
+    "found_at": "https://svelte.dev/docs/kit/",
+    "timestamp": "2024-11-14T23:00:21.034749800Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://svelte.dev/docs/kit/$app-paths",
+    "title": "$app/paths • Docs • Svelte",
+    "found_at": "https://svelte.dev/docs/kit/",
+    "timestamp": "2024-11-14T23:00:21.212285600Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://svelte.dev/docs/kit/$app-server",
+    "title": "$app/server • Docs • Svelte",
+    "found_at": "https://svelte.dev/docs/kit/",
+    "timestamp": "2024-11-14T23:00:21.382875100Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://svelte.dev/docs/kit/$app-stores",
+    "title": "$app/stores • Docs • Svelte",
+    "found_at": "https://svelte.dev/docs/kit/",
+    "timestamp": "2024-11-14T23:00:21.555419300Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://svelte.dev/docs/kit/$env-dynamic-private",
+    "title": "$env/dynamic/private • Docs • Svelte",
+    "found_at": "https://svelte.dev/docs/kit/",
+    "timestamp": "2024-11-14T23:00:21.735433700Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://svelte.dev/docs/kit/$env-dynamic-public",
+    "title": "$env/dynamic/public • Docs • Svelte",
+    "found_at": "https://svelte.dev/docs/kit/",
+    "timestamp": "2024-11-14T23:00:21.907104300Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://svelte.dev/docs/kit/$env-static-private",
+    "title": "$env/static/private • Docs • Svelte",
+    "found_at": "https://svelte.dev/docs/kit/",
+    "timestamp": "2024-11-14T23:00:22.085995900Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://svelte.dev/docs/kit/$env-static-public",
+    "title": "$env/static/public • Docs • Svelte",
+    "found_at": "https://svelte.dev/docs/kit/",
+    "timestamp": "2024-11-14T23:00:22.259407900Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://svelte.dev/docs/kit/$lib",
+    "title": "$lib • Docs • Svelte",
+    "found_at": "https://svelte.dev/docs/kit/",
+    "timestamp": "2024-11-14T23:00:22.457842200Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://svelte.dev/docs/kit/$service-worker",
+    "title": "$service-worker • Docs • Svelte",
+    "found_at": "https://svelte.dev/docs/kit/",
+    "timestamp": "2024-11-14T23:00:22.628763400Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://svelte.dev/docs/kit/@sveltejs-kit",
+    "title": "@sveltejs/kit • Docs • Svelte",
+    "found_at": "https://svelte.dev/docs/kit/",
+    "timestamp": "2024-11-14T23:00:19.580709900Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://svelte.dev/docs/kit/@sveltejs-kit-hooks",
+    "title": "@sveltejs/kit/hooks • Docs • Svelte",
+    "found_at": "https://svelte.dev/docs/kit/",
+    "timestamp": "2024-11-14T23:00:19.922485Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://svelte.dev/docs/kit/@sveltejs-kit-node",
+    "title": "@sveltejs/kit/node • Docs • Svelte",
+    "found_at": "https://svelte.dev/docs/kit/",
+    "timestamp": "2024-11-14T23:00:20.290886900Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://svelte.dev/docs/kit/@sveltejs-kit-node-polyfills",
+    "title": "@sveltejs/kit/node/polyfills • Docs • Svelte",
+    "found_at": "https://svelte.dev/docs/kit/",
+    "timestamp": "2024-11-14T23:00:20.122616500Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://svelte.dev/docs/kit/@sveltejs-kit-vite",
+    "title": "@sveltejs/kit/vite • Docs • Svelte",
+    "found_at": "https://svelte.dev/docs/kit/",
+    "timestamp": "2024-11-14T23:00:20.463163200Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://svelte.dev/docs/kit/accessibility",
+    "title": "Accessibility • Docs • Svelte",
+    "found_at": "https://svelte.dev/docs/kit/",
+    "timestamp": "2024-11-14T23:00:17.759506300Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://svelte.dev/docs/kit/adapter-auto",
+    "title": "Zero-config deployments • Docs • Svelte",
+    "found_at": "https://svelte.dev/docs/kit/",
+    "timestamp": "2024-11-14T23:00:13.218761300Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://svelte.dev/docs/kit/adapter-cloudflare",
+    "title": "Cloudflare Pages • Docs • Svelte",
+    "found_at": "https://svelte.dev/docs/kit/",
+    "timestamp": "2024-11-14T23:00:13.984591100Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://svelte.dev/docs/kit/adapter-cloudflare-workers",
+    "title": "Cloudflare Workers • Docs • Svelte",
+    "found_at": "https://svelte.dev/docs/kit/",
+    "timestamp": "2024-11-14T23:00:14.163334800Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://svelte.dev/docs/kit/adapter-netlify",
+    "title": "Netlify • Docs • Svelte",
+    "found_at": "https://svelte.dev/docs/kit/",
+    "timestamp": "2024-11-14T23:00:14.345077600Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://svelte.dev/docs/kit/adapter-node",
+    "title": "Node servers • Docs • Svelte",
+    "found_at": "https://svelte.dev/docs/kit/",
+    "timestamp": "2024-11-14T23:00:13.439146700Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://svelte.dev/docs/kit/adapter-static",
+    "title": "Static site generation • Docs • Svelte",
+    "found_at": "https://svelte.dev/docs/kit/",
+    "timestamp": "2024-11-14T23:00:13.631970800Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://svelte.dev/docs/kit/adapter-vercel",
+    "title": "Vercel • Docs • Svelte",
+    "found_at": "https://svelte.dev/docs/kit/",
+    "timestamp": "2024-11-14T23:00:14.543624300Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://svelte.dev/docs/kit/adapters",
+    "title": "Adapters • Docs • Svelte",
+    "found_at": "https://svelte.dev/docs/kit/",
+    "timestamp": "2024-11-14T23:00:13.048228900Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://svelte.dev/docs/kit/additional-resources",
+    "title": "Additional resources • Docs • Svelte",
+    "found_at": "https://svelte.dev/docs/kit/",
+    "timestamp": "2024-11-14T23:00:19.083069400Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://svelte.dev/docs/kit/advanced-routing",
+    "title": "Advanced routing • Docs • Svelte",
+    "found_at": "https://svelte.dev/docs/kit/",
+    "timestamp": "2024-11-14T23:00:15.019872600Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://svelte.dev/docs/kit/auth",
+    "title": "Auth • Docs • Svelte",
+    "found_at": "https://svelte.dev/docs/kit/",
+    "timestamp": "2024-11-14T23:00:17.224630800Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://svelte.dev/docs/kit/building-your-app",
+    "title": "Building your app • Docs • Svelte",
+    "found_at": "https://svelte.dev/docs/kit/",
+    "timestamp": "2024-11-14T23:00:12.871893900Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://svelte.dev/docs/kit/cli",
+    "title": "Command Line Interface • Docs • Svelte",
+    "found_at": "https://svelte.dev/docs/kit/",
+    "timestamp": "2024-11-14T23:00:23.038378300Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://svelte.dev/docs/kit/configuration",
+    "title": "Configuration • Docs • Svelte",
+    "found_at": "https://svelte.dev/docs/kit/",
+    "timestamp": "2024-11-14T23:00:22.859583600Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://svelte.dev/docs/kit/creating-a-project",
+    "title": "Creating a project • Docs • Svelte",
+    "found_at": "https://svelte.dev/docs/kit/",
+    "timestamp": "2024-11-14T23:00:10.640188Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://svelte.dev/docs/kit/debugging",
+    "title": "Breakpoint Debugging • Docs • Svelte",
+    "found_at": "https://svelte.dev/docs/kit/",
+    "timestamp": "2024-11-14T23:00:18.531692700Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://svelte.dev/docs/kit/errors",
+    "title": "Errors • Docs • Svelte",
+    "found_at": "https://svelte.dev/docs/kit/",
+    "timestamp": "2024-11-14T23:00:15.496274Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://svelte.dev/docs/kit/faq",
+    "title": "Frequently asked questions • Docs • Svelte",
+    "found_at": "https://svelte.dev/docs/kit/",
+    "timestamp": "2024-11-14T23:00:18.195559900Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://svelte.dev/docs/kit/faq#What-can-I-make-with-SvelteKit",
+    "title": "Frequently asked questions • Docs • Svelte",
+    "found_at": "https://svelte.dev/docs/kit/",
+    "timestamp": "2024-11-14T23:00:24.761216400Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://svelte.dev/docs/kit/form-actions",
+    "title": "Form actions • Docs • Svelte",
+    "found_at": "https://svelte.dev/docs/kit/",
+    "timestamp": "2024-11-14T23:00:12.265929400Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://svelte.dev/docs/kit/glossary",
+    "title": "Glossary • Docs • Svelte",
+    "found_at": "https://svelte.dev/docs/kit/",
+    "timestamp": "2024-11-14T23:00:19.249741700Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://svelte.dev/docs/kit/glossary#CSR",
+    "title": "Glossary • Docs • Svelte",
+    "found_at": "https://svelte.dev/docs/kit/",
+    "timestamp": "2024-11-14T23:00:25.489604300Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://svelte.dev/docs/kit/glossary#Prerendering",
+    "title": "Glossary • Docs • Svelte",
+    "found_at": "https://svelte.dev/docs/kit/",
+    "timestamp": "2024-11-14T23:00:25.655848200Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://svelte.dev/docs/kit/glossary#Routing",
+    "title": "Glossary • Docs • Svelte",
+    "found_at": "https://svelte.dev/docs/kit/",
+    "timestamp": "2024-11-14T23:00:24.939406600Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://svelte.dev/docs/kit/glossary#SSR",
+    "title": "Glossary • Docs • Svelte",
+    "found_at": "https://svelte.dev/docs/kit/",
+    "timestamp": "2024-11-14T23:00:25.293066Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://svelte.dev/docs/kit/hooks",
+    "title": "Hooks • Docs • Svelte",
+    "found_at": "https://svelte.dev/docs/kit/",
+    "timestamp": "2024-11-14T23:00:15.303034500Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://svelte.dev/docs/kit/images",
+    "title": "Images • Docs • Svelte",
+    "found_at": "https://svelte.dev/docs/kit/",
+    "timestamp": "2024-11-14T23:00:17.572145700Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://svelte.dev/docs/kit/integrations",
+    "title": "Integrations • Docs • Svelte",
+    "found_at": "https://svelte.dev/docs/kit/",
+    "timestamp": "2024-11-14T23:00:18.365291100Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://svelte.dev/docs/kit/introduction",
+    "title": "Introduction • Docs • Svelte",
+    "found_at": "https://svelte.dev/docs/kit/",
+    "timestamp": "2024-11-14T23:00:10.445034500Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://svelte.dev/docs/kit/link-options",
+    "title": "Link options • Docs • Svelte",
+    "found_at": "https://svelte.dev/docs/kit/",
+    "timestamp": "2024-11-14T23:00:15.670916700Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://svelte.dev/docs/kit/link-options#data-sveltekit-preload-data",
+    "title": "Link options • Docs • Svelte",
+    "found_at": "https://svelte.dev/docs/kit/",
+    "timestamp": "2024-11-14T23:00:25.114214800Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://svelte.dev/docs/kit/load",
+    "title": "Loading data • Docs • Svelte",
+    "found_at": "https://svelte.dev/docs/kit/",
+    "timestamp": "2024-11-14T23:00:11.774005200Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://svelte.dev/docs/kit/migrating",
+    "title": "Migrating from Sapper • Docs • Svelte",
+    "found_at": "https://svelte.dev/docs/kit/",
+    "timestamp": "2024-11-14T23:00:18.916883400Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://svelte.dev/docs/kit/migrating-to-sveltekit-2",
+    "title": "Migrating to SvelteKit v2 • Docs • Svelte",
+    "found_at": "https://svelte.dev/docs/kit/",
+    "timestamp": "2024-11-14T23:00:18.729584800Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://svelte.dev/docs/kit/packaging",
+    "title": "Packaging • Docs • Svelte",
+    "found_at": "https://svelte.dev/docs/kit/",
+    "timestamp": "2024-11-14T23:00:17.055428600Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://svelte.dev/docs/kit/page-options",
+    "title": "Page options • Docs • Svelte",
+    "found_at": "https://svelte.dev/docs/kit/",
+    "timestamp": "2024-11-14T23:00:12.478025400Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://svelte.dev/docs/kit/performance",
+    "title": "Performance • Docs • Svelte",
+    "found_at": "https://svelte.dev/docs/kit/",
+    "timestamp": "2024-11-14T23:00:17.393608700Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://svelte.dev/docs/kit/project-structure",
+    "title": "Project structure • Docs • Svelte",
+    "found_at": "https://svelte.dev/docs/kit/",
+    "timestamp": "2024-11-14T23:00:10.817388900Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://svelte.dev/docs/kit/routing",
+    "title": "Routing • Docs • Svelte",
+    "found_at": "https://svelte.dev/docs/kit/",
+    "timestamp": "2024-11-14T23:00:11.319623600Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://svelte.dev/docs/kit/seo",
+    "title": "SEO • Docs • Svelte",
+    "found_at": "https://svelte.dev/docs/kit/",
+    "timestamp": "2024-11-14T23:00:17.973467700Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://svelte.dev/docs/kit/server-only-modules",
+    "title": "Server-only modules • Docs • Svelte",
+    "found_at": "https://svelte.dev/docs/kit/",
+    "timestamp": "2024-11-14T23:00:16.057775300Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://svelte.dev/docs/kit/service-workers",
+    "title": "Service workers • Docs • Svelte",
+    "found_at": "https://svelte.dev/docs/kit/",
+    "timestamp": "2024-11-14T23:00:15.878410800Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://svelte.dev/docs/kit/shallow-routing",
+    "title": "Shallow routing • Docs • Svelte",
+    "found_at": "https://svelte.dev/docs/kit/",
+    "timestamp": "2024-11-14T23:00:16.880524600Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://svelte.dev/docs/kit/single-page-apps",
+    "title": "Single-page apps • Docs • Svelte",
+    "found_at": "https://svelte.dev/docs/kit/",
+    "timestamp": "2024-11-14T23:00:13.809634100Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://svelte.dev/docs/kit/snapshots",
+    "title": "Snapshots • Docs • Svelte",
+    "found_at": "https://svelte.dev/docs/kit/",
+    "timestamp": "2024-11-14T23:00:16.685629Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://svelte.dev/docs/kit/state-management",
+    "title": "State management • Docs • Svelte",
+    "found_at": "https://svelte.dev/docs/kit/",
+    "timestamp": "2024-11-14T23:00:12.701273300Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://svelte.dev/docs/kit/types",
+    "title": "Types • Docs • Svelte",
+    "found_at": "https://svelte.dev/docs/kit/",
+    "timestamp": "2024-11-14T23:00:23.241708100Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://svelte.dev/docs/kit/web-standards",
+    "title": "Web standards • Docs • Svelte",
+    "found_at": "https://svelte.dev/docs/kit/",
+    "timestamp": "2024-11-14T23:00:11.043844900Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://svelte.dev/docs/kit/writing-adapters",
+    "title": "Writing adapters • Docs • Svelte",
+    "found_at": "https://svelte.dev/docs/kit/",
+    "timestamp": "2024-11-14T23:00:14.814237500Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://svelte.dev/docs/svelte",
+    "title": "Overview • Docs • Svelte",
+    "found_at": "https://svelte.dev/docs/cli/",
+    "timestamp": "2024-11-14T22:59:47.317131100Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://svelte.dev/docs/svelte#main",
+    "title": "Overview • Docs • Svelte",
+    "found_at": "https://svelte.dev/docs/svelte",
+    "timestamp": "2024-11-14T22:59:51.805992Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://svelte.dev/docs/svelte/$bindable",
+    "title": "$bindable • Docs • Svelte",
+    "found_at": "https://svelte.dev/docs/svelte",
+    "timestamp": "2024-11-14T22:59:53.737449400Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://svelte.dev/docs/svelte/$derived",
+    "title": "$derived • Docs • Svelte",
+    "found_at": "https://svelte.dev/docs/svelte",
+    "timestamp": "2024-11-14T22:59:53.099962900Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://svelte.dev/docs/svelte/$effect",
+    "title": "$effect • Docs • Svelte",
+    "found_at": "https://svelte.dev/docs/svelte",
+    "timestamp": "2024-11-14T22:59:53.352863800Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://svelte.dev/docs/svelte/$host",
+    "title": "$host • Docs • Svelte",
+    "found_at": "https://svelte.dev/docs/svelte",
+    "timestamp": "2024-11-14T22:59:54.090105700Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://svelte.dev/docs/svelte/$inspect",
+    "title": "$inspect • Docs • Svelte",
+    "found_at": "https://svelte.dev/docs/svelte",
+    "timestamp": "2024-11-14T22:59:53.914890500Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://svelte.dev/docs/svelte/$props",
+    "title": "$props • Docs • Svelte",
+    "found_at": "https://svelte.dev/docs/svelte",
+    "timestamp": "2024-11-14T22:59:53.544618100Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://svelte.dev/docs/svelte/$state",
+    "title": "$state • Docs • Svelte",
+    "found_at": "https://svelte.dev/docs/svelte",
+    "timestamp": "2024-11-14T22:59:52.922090500Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://svelte.dev/docs/svelte/@const",
+    "title": "{@const ...} • Docs • Svelte",
+    "found_at": "https://svelte.dev/docs/svelte",
+    "timestamp": "2024-11-14T22:59:55.834920300Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://svelte.dev/docs/svelte/@debug",
+    "title": "{@debug ...} • Docs • Svelte",
+    "found_at": "https://svelte.dev/docs/svelte",
+    "timestamp": "2024-11-14T22:59:56.003235600Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://svelte.dev/docs/svelte/@html",
+    "title": "{@html ...} • Docs • Svelte",
+    "found_at": "https://svelte.dev/docs/svelte",
+    "timestamp": "2024-11-14T22:59:55.665393300Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://svelte.dev/docs/svelte/@render",
+    "title": "{@render ...} • Docs • Svelte",
+    "found_at": "https://svelte.dev/docs/svelte",
+    "timestamp": "2024-11-14T22:59:55.494145100Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://svelte.dev/docs/svelte/animate",
+    "title": "animate: • Docs • Svelte",
+    "found_at": "https://svelte.dev/docs/svelte",
+    "timestamp": "2024-11-14T22:59:56.904254700Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://svelte.dev/docs/svelte/await",
+    "title": "{#await ...} • Docs • Svelte",
+    "found_at": "https://svelte.dev/docs/svelte",
+    "timestamp": "2024-11-14T22:59:55.138154800Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://svelte.dev/docs/svelte/basic-markup",
+    "title": "Basic markup • Docs • Svelte",
+    "found_at": "https://svelte.dev/docs/svelte",
+    "timestamp": "2024-11-14T22:59:54.273033400Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://svelte.dev/docs/svelte/bind",
+    "title": "bind: • Docs • Svelte",
+    "found_at": "https://svelte.dev/docs/svelte",
+    "timestamp": "2024-11-14T22:59:56.192094900Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://svelte.dev/docs/svelte/class",
+    "title": "class: • Docs • Svelte",
+    "found_at": "https://svelte.dev/docs/svelte",
+    "timestamp": "2024-11-14T22:59:57.070978700Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://svelte.dev/docs/svelte/compiler-errors",
+    "title": "Compiler errors • Docs • Svelte",
+    "found_at": "https://svelte.dev/docs/svelte",
+    "timestamp": "2024-11-14T23:00:03.427020600Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://svelte.dev/docs/svelte/compiler-warnings",
+    "title": "Compiler warnings • Docs • Svelte",
+    "found_at": "https://svelte.dev/docs/svelte",
+    "timestamp": "2024-11-14T23:00:03.632134300Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://svelte.dev/docs/svelte/context",
+    "title": "Context • Docs • Svelte",
+    "found_at": "https://svelte.dev/docs/svelte",
+    "timestamp": "2024-11-14T22:59:59.439347500Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://svelte.dev/docs/svelte/custom-elements",
+    "title": "Custom elements • Docs • Svelte",
+    "found_at": "https://svelte.dev/docs/svelte",
+    "timestamp": "2024-11-14T23:00:00.493877Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://svelte.dev/docs/svelte/custom-properties",
+    "title": "Custom properties • Docs • Svelte",
+    "found_at": "https://svelte.dev/docs/svelte",
+    "timestamp": "2024-11-14T22:59:57.749807900Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://svelte.dev/docs/svelte/each",
+    "title": "{#each ...} • Docs • Svelte",
+    "found_at": "https://svelte.dev/docs/svelte",
+    "timestamp": "2024-11-14T22:59:54.799884400Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://svelte.dev/docs/svelte/faq",
+    "title": "Frequently asked questions • Docs • Svelte",
+    "found_at": "https://svelte.dev/docs/svelte",
+    "timestamp": "2024-11-14T23:00:00.902529200Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://svelte.dev/docs/svelte/getting-started",
+    "title": "Getting started • Docs • Svelte",
+    "found_at": "https://svelte.dev/docs/svelte",
+    "timestamp": "2024-11-14T22:59:52.186817800Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://svelte.dev/docs/svelte/global-styles",
+    "title": "Global styles • Docs • Svelte",
+    "found_at": "https://svelte.dev/docs/svelte",
+    "timestamp": "2024-11-14T22:59:57.578992900Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://svelte.dev/docs/svelte/if",
+    "title": "{#if ...} • Docs • Svelte",
+    "found_at": "https://svelte.dev/docs/svelte",
+    "timestamp": "2024-11-14T22:59:54.623774500Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://svelte.dev/docs/svelte/imperative-component-api",
+    "title": "Imperative component API • Docs • Svelte",
+    "found_at": "https://svelte.dev/docs/svelte",
+    "timestamp": "2024-11-14T22:59:59.823352800Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://svelte.dev/docs/svelte/in-and-out",
+    "title": "in: and out: • Docs • Svelte",
+    "found_at": "https://svelte.dev/docs/svelte",
+    "timestamp": "2024-11-14T22:59:56.722749500Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://svelte.dev/docs/svelte/key",
+    "title": "{#key ...} • Docs • Svelte",
+    "found_at": "https://svelte.dev/docs/svelte",
+    "timestamp": "2024-11-14T22:59:54.967777600Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://svelte.dev/docs/svelte/legacy-$$props-and-$$restProps",
+    "title": "$$props and $$restProps • Docs • Svelte",
+    "found_at": "https://svelte.dev/docs/svelte",
+    "timestamp": "2024-11-14T23:00:04.843430900Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://svelte.dev/docs/svelte/legacy-$$slots",
+    "title": "$$slots • Docs • Svelte",
+    "found_at": "https://svelte.dev/docs/svelte",
+    "timestamp": "2024-11-14T23:00:05.362162400Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://svelte.dev/docs/svelte/legacy-component-api",
+    "title": "Imperative component API • Docs • Svelte",
+    "found_at": "https://svelte.dev/docs/svelte",
+    "timestamp": "2024-11-14T23:00:06.062774200Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://svelte.dev/docs/svelte/legacy-export-let",
+    "title": "export let • Docs • Svelte",
+    "found_at": "https://svelte.dev/docs/svelte",
+    "timestamp": "2024-11-14T23:00:04.670945Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://svelte.dev/docs/svelte/legacy-let",
+    "title": "Reactive let/var declarations • Docs • Svelte",
+    "found_at": "https://svelte.dev/docs/svelte",
+    "timestamp": "2024-11-14T23:00:04.323809600Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://svelte.dev/docs/svelte/legacy-on",
+    "title": "on: • Docs • Svelte",
+    "found_at": "https://svelte.dev/docs/svelte",
+    "timestamp": "2024-11-14T23:00:05.022473Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://svelte.dev/docs/svelte/legacy-overview",
+    "title": "Overview • Docs • Svelte",
+    "found_at": "https://svelte.dev/docs/svelte",
+    "timestamp": "2024-11-14T23:00:04.151268500Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://svelte.dev/docs/svelte/legacy-reactive-assignments",
+    "title": "Reactive $: statements • Docs • Svelte",
+    "found_at": "https://svelte.dev/docs/svelte",
+    "timestamp": "2024-11-14T23:00:04.498442600Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://svelte.dev/docs/svelte/legacy-slots",
+    "title": "&lt;slot&gt; • Docs • Svelte",
+    "found_at": "https://svelte.dev/docs/svelte",
+    "timestamp": "2024-11-14T23:00:05.195522200Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://svelte.dev/docs/svelte/legacy-svelte-component",
+    "title": "&lt;svelte:component&gt; • Docs • Svelte",
+    "found_at": "https://svelte.dev/docs/svelte",
+    "timestamp": "2024-11-14T23:00:05.694844900Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://svelte.dev/docs/svelte/legacy-svelte-fragment",
+    "title": "&lt;svelte:fragment&gt; • Docs • Svelte",
+    "found_at": "https://svelte.dev/docs/svelte",
+    "timestamp": "2024-11-14T23:00:05.530367100Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://svelte.dev/docs/svelte/legacy-svelte-self",
+    "title": "&lt;svelte:self&gt; • Docs • Svelte",
+    "found_at": "https://svelte.dev/docs/svelte",
+    "timestamp": "2024-11-14T23:00:05.863822600Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://svelte.dev/docs/svelte/lifecycle-hooks",
+    "title": "Lifecycle hooks • Docs • Svelte",
+    "found_at": "https://svelte.dev/docs/svelte",
+    "timestamp": "2024-11-14T22:59:59.623189800Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://svelte.dev/docs/svelte/nested-style-elements",
+    "title": "Nested &lt;style&gt; elements • Docs • Svelte",
+    "found_at": "https://svelte.dev/docs/svelte",
+    "timestamp": "2024-11-14T22:59:57.915555300Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://svelte.dev/docs/svelte/overview",
+    "title": "Overview • Docs • Svelte",
+    "found_at": "https://svelte.dev/docs/svelte",
+    "timestamp": "2024-11-14T22:59:52.015391500Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://svelte.dev/docs/svelte/runtime-errors",
+    "title": "Runtime errors • Docs • Svelte",
+    "found_at": "https://svelte.dev/docs/svelte",
+    "timestamp": "2024-11-14T23:00:03.806455200Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://svelte.dev/docs/svelte/runtime-warnings",
+    "title": "Runtime warnings • Docs • Svelte",
+    "found_at": "https://svelte.dev/docs/svelte",
+    "timestamp": "2024-11-14T23:00:03.976459500Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://svelte.dev/docs/svelte/scoped-styles",
+    "title": "Scoped styles • Docs • Svelte",
+    "found_at": "https://svelte.dev/docs/svelte",
+    "timestamp": "2024-11-14T22:59:57.408680500Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://svelte.dev/docs/svelte/snippet",
+    "title": "{#snippet ...} • Docs • Svelte",
+    "found_at": "https://svelte.dev/docs/svelte",
+    "timestamp": "2024-11-14T22:59:55.323445300Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://svelte.dev/docs/svelte/stores",
+    "title": "Stores • Docs • Svelte",
+    "found_at": "https://svelte.dev/docs/svelte",
+    "timestamp": "2024-11-14T22:59:59.255879500Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://svelte.dev/docs/svelte/style",
+    "title": "style: • Docs • Svelte",
+    "found_at": "https://svelte.dev/docs/svelte",
+    "timestamp": "2024-11-14T22:59:57.240941500Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://svelte.dev/docs/svelte/svelte",
+    "title": "svelte • Docs • Svelte",
+    "found_at": "https://svelte.dev/docs/svelte",
+    "timestamp": "2024-11-14T23:00:01.159454700Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://svelte.dev/docs/svelte/svelte-action",
+    "title": "svelte/action • Docs • Svelte",
+    "found_at": "https://svelte.dev/docs/svelte",
+    "timestamp": "2024-11-14T23:00:01.339882800Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://svelte.dev/docs/svelte/svelte-animate",
+    "title": "svelte/animate • Docs • Svelte",
+    "found_at": "https://svelte.dev/docs/svelte",
+    "timestamp": "2024-11-14T23:00:01.536774100Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://svelte.dev/docs/svelte/svelte-body",
+    "title": "&lt;svelte:body&gt; • Docs • Svelte",
+    "found_at": "https://svelte.dev/docs/svelte",
+    "timestamp": "2024-11-14T22:59:58.438835400Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://svelte.dev/docs/svelte/svelte-compiler",
+    "title": "svelte/compiler • Docs • Svelte",
+    "found_at": "https://svelte.dev/docs/svelte",
+    "timestamp": "2024-11-14T23:00:01.770087500Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://svelte.dev/docs/svelte/svelte-document",
+    "title": "&lt;svelte:document&gt; • Docs • Svelte",
+    "found_at": "https://svelte.dev/docs/svelte",
+    "timestamp": "2024-11-14T22:59:58.250839400Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://svelte.dev/docs/svelte/svelte-easing",
+    "title": "svelte/easing • Docs • Svelte",
+    "found_at": "https://svelte.dev/docs/svelte",
+    "timestamp": "2024-11-14T23:00:01.960663700Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://svelte.dev/docs/svelte/svelte-element",
+    "title": "&lt;svelte:element&gt; • Docs • Svelte",
+    "found_at": "https://svelte.dev/docs/svelte",
+    "timestamp": "2024-11-14T22:59:58.800349400Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://svelte.dev/docs/svelte/svelte-events",
+    "title": "svelte/events • Docs • Svelte",
+    "found_at": "https://svelte.dev/docs/svelte",
+    "timestamp": "2024-11-14T23:00:02.132925600Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://svelte.dev/docs/svelte/svelte-files",
+    "title": ".svelte files • Docs • Svelte",
+    "found_at": "https://svelte.dev/docs/svelte",
+    "timestamp": "2024-11-14T22:59:52.355223500Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://svelte.dev/docs/svelte/svelte-head",
+    "title": "&lt;svelte:head&gt; • Docs • Svelte",
+    "found_at": "https://svelte.dev/docs/svelte",
+    "timestamp": "2024-11-14T22:59:58.618319200Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://svelte.dev/docs/svelte/svelte-js-files",
+    "title": ".svelte.js and .svelte.ts files • Docs • Svelte",
+    "found_at": "https://svelte.dev/docs/svelte",
+    "timestamp": "2024-11-14T22:59:52.519407400Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://svelte.dev/docs/svelte/svelte-legacy",
+    "title": "svelte/legacy • Docs • Svelte",
+    "found_at": "https://svelte.dev/docs/svelte",
+    "timestamp": "2024-11-14T23:00:02.324003500Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://svelte.dev/docs/svelte/svelte-motion",
+    "title": "svelte/motion • Docs • Svelte",
+    "found_at": "https://svelte.dev/docs/svelte",
+    "timestamp": "2024-11-14T23:00:02.496675900Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://svelte.dev/docs/svelte/svelte-options",
+    "title": "&lt;svelte:options&gt; • Docs • Svelte",
+    "found_at": "https://svelte.dev/docs/svelte",
+    "timestamp": "2024-11-14T22:59:58.966389400Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://svelte.dev/docs/svelte/svelte-reactivity",
+    "title": "svelte/reactivity • Docs • Svelte",
+    "found_at": "https://svelte.dev/docs/svelte",
+    "timestamp": "2024-11-14T23:00:02.670432500Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://svelte.dev/docs/svelte/svelte-server",
+    "title": "svelte/server • Docs • Svelte",
+    "found_at": "https://svelte.dev/docs/svelte",
+    "timestamp": "2024-11-14T23:00:02.843070900Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://svelte.dev/docs/svelte/svelte-store",
+    "title": "svelte/store • Docs • Svelte",
+    "found_at": "https://svelte.dev/docs/svelte",
+    "timestamp": "2024-11-14T23:00:03.027197100Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://svelte.dev/docs/svelte/svelte-transition",
+    "title": "svelte/transition • Docs • Svelte",
+    "found_at": "https://svelte.dev/docs/svelte",
+    "timestamp": "2024-11-14T23:00:03.218198700Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://svelte.dev/docs/svelte/svelte-window",
+    "title": "&lt;svelte:window&gt; • Docs • Svelte",
+    "found_at": "https://svelte.dev/docs/svelte",
+    "timestamp": "2024-11-14T22:59:58.083694Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://svelte.dev/docs/svelte/testing",
+    "title": "Testing • Docs • Svelte",
+    "found_at": "https://svelte.dev/docs/svelte",
+    "timestamp": "2024-11-14T23:00:00.073986100Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://svelte.dev/docs/svelte/transition",
+    "title": "transition: • Docs • Svelte",
+    "found_at": "https://svelte.dev/docs/svelte",
+    "timestamp": "2024-11-14T22:59:56.552655300Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://svelte.dev/docs/svelte/typescript",
+    "title": "TypeScript • Docs • Svelte",
+    "found_at": "https://svelte.dev/docs/svelte",
+    "timestamp": "2024-11-14T23:00:00.310819700Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://svelte.dev/docs/svelte/use",
+    "title": "use: • Docs • Svelte",
+    "found_at": "https://svelte.dev/docs/svelte",
+    "timestamp": "2024-11-14T22:59:56.368057Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://svelte.dev/docs/svelte/v4-migration-guide",
+    "title": "Svelte 4 migration guide • Docs • Svelte",
+    "found_at": "https://svelte.dev/docs/svelte",
+    "timestamp": "2024-11-14T23:00:00.719709500Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://svelte.dev/docs/svelte/v5-migration-guide",
+    "title": "Svelte 5 migration guide • Docs • Svelte",
+    "found_at": "https://svelte.dev/docs",
+    "timestamp": "2024-11-14T22:59:51.497109800Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://svelte.dev/docs/svelte/what-are-runes",
+    "title": "What are runes? • Docs • Svelte",
+    "found_at": "https://svelte.dev/docs/svelte",
+    "timestamp": "2024-11-14T22:59:52.687112200Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://svelte.dev/kit",
+    "title": "404",
+    "found_at": "https://svelte.dev/docs/svelte",
+    "timestamp": "2024-11-14T23:00:06.452144900Z",
+    "status_code": 404
+  },
+  {
+    "url": "https://svelte.dev/playground",
+    "title": "Hello world • Playground • Svelte",
+    "found_at": "https://svelte.dev/docs/cli/",
+    "timestamp": "2024-11-14T22:59:48.511376Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://svelte.dev/tutorial",
+    "title": "Introduction / Welcome to Svelte • Svelte Tutorial",
+    "found_at": "https://svelte.dev/docs/cli/",
+    "timestamp": "2024-11-14T22:59:47.977327600Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://svelte.dev/tutorial/kit",
+    "title": "Introduction / What is SvelteKit? • Svelte Tutorial",
+    "found_at": "https://svelte.dev/docs/kit/",
+    "timestamp": "2024-11-14T23:00:24.489932Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://tailwindcss.com/",
+    "title": "Tailwind CSS - Rapidly build modern websites without ever leaving your HTML.",
+    "found_at": "https://tailwindcss.com/docs",
+    "timestamp": "2024-11-14T22:48:42.428679300Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://tailwindcss.com/blog",
+    "title": "Blog - Tailwind CSS",
+    "found_at": "https://tailwindcss.com/docs",
+    "timestamp": "2024-11-14T22:48:42.977246900Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://tailwindcss.com/blog/2024-05-24-catalyst-application-layouts",
+    "title": "Catalyst: Application layouts, navigation menus, description lists, and more - Tailwind CSS",
+    "found_at": "https://tailwindcss.com/docs",
+    "timestamp": "2024-11-14T22:48:42.606595300Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://tailwindcss.com/docs",
+    "title": "Installation - Tailwind CSS",
+    "found_at": "starting_point",
+    "timestamp": "2024-11-14T22:48:42.089306800Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://tailwindcss.com/docs/adding-custom-styles",
+    "title": "Adding Custom Styles - Tailwind CSS",
+    "found_at": "https://tailwindcss.com/docs",
+    "timestamp": "2024-11-14T22:48:45.948052300Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://tailwindcss.com/docs/align-content",
+    "title": "Align Content - Tailwind CSS",
+    "found_at": "https://tailwindcss.com/docs",
+    "timestamp": "2024-11-14T22:48:57.219229Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://tailwindcss.com/docs/align-items",
+    "title": "Align Items - Tailwind CSS",
+    "found_at": "https://tailwindcss.com/docs",
+    "timestamp": "2024-11-14T22:48:57.406678Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://tailwindcss.com/docs/align-self",
+    "title": "Align Self - Tailwind CSS",
+    "found_at": "https://tailwindcss.com/docs",
+    "timestamp": "2024-11-14T22:48:57.588085Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://tailwindcss.com/docs/aspect-ratio",
+    "title": "Aspect Ratio - Tailwind CSS",
+    "found_at": "https://tailwindcss.com/docs",
+    "timestamp": "2024-11-14T22:48:48.398637900Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://tailwindcss.com/docs/box-decoration-break",
+    "title": "Box Decoration Break - Tailwind CSS",
+    "found_at": "https://tailwindcss.com/docs",
+    "timestamp": "2024-11-14T22:48:50.233482200Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://tailwindcss.com/docs/box-sizing",
+    "title": "Box Sizing - Tailwind CSS",
+    "found_at": "https://tailwindcss.com/docs",
+    "timestamp": "2024-11-14T22:48:50.450041700Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://tailwindcss.com/docs/break-after",
+    "title": "Break After - Tailwind CSS",
+    "found_at": "https://tailwindcss.com/docs",
+    "timestamp": "2024-11-14T22:48:49.277854300Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://tailwindcss.com/docs/break-before",
+    "title": "Break Before - Tailwind CSS",
+    "found_at": "https://tailwindcss.com/docs",
+    "timestamp": "2024-11-14T22:48:49.673385300Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://tailwindcss.com/docs/break-inside",
+    "title": "Break Inside - Tailwind CSS",
+    "found_at": "https://tailwindcss.com/docs",
+    "timestamp": "2024-11-14T22:48:50.054095600Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://tailwindcss.com/docs/browser-support",
+    "title": "Browser Support - Tailwind CSS",
+    "found_at": "https://tailwindcss.com/docs",
+    "timestamp": "2024-11-14T22:48:44.268978100Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://tailwindcss.com/docs/clear",
+    "title": "Clear - Tailwind CSS",
+    "found_at": "https://tailwindcss.com/docs",
+    "timestamp": "2024-11-14T22:48:51.803675400Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://tailwindcss.com/docs/columns",
+    "title": "Columns - Tailwind CSS",
+    "found_at": "https://tailwindcss.com/docs",
+    "timestamp": "2024-11-14T22:48:48.762368300Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://tailwindcss.com/docs/configuration",
+    "title": "Configuration - Tailwind CSS",
+    "found_at": "https://tailwindcss.com/docs",
+    "timestamp": "2024-11-14T22:48:46.367987Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://tailwindcss.com/docs/container",
+    "title": "Container - Tailwind CSS",
+    "found_at": "https://tailwindcss.com/docs",
+    "timestamp": "2024-11-14T22:48:48.574563200Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://tailwindcss.com/docs/content-configuration",
+    "title": "Content Configuration - Tailwind CSS",
+    "found_at": "https://tailwindcss.com/docs",
+    "timestamp": "2024-11-14T22:48:46.585247900Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://tailwindcss.com/docs/customizing-colors",
+    "title": "Customizing Colors - Tailwind CSS",
+    "found_at": "https://tailwindcss.com/docs",
+    "timestamp": "2024-11-14T22:48:47.209695300Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://tailwindcss.com/docs/customizing-spacing",
+    "title": "Customizing Spacing - Tailwind CSS",
+    "found_at": "https://tailwindcss.com/docs",
+    "timestamp": "2024-11-14T22:48:47.392047Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://tailwindcss.com/docs/dark-mode",
+    "title": "Dark Mode - Tailwind CSS",
+    "found_at": "https://tailwindcss.com/docs",
+    "timestamp": "2024-11-14T22:48:45.499965800Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://tailwindcss.com/docs/display",
+    "title": "Display - Tailwind CSS",
+    "found_at": "https://tailwindcss.com/docs",
+    "timestamp": "2024-11-14T22:48:50.661706800Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://tailwindcss.com/docs/editor-setup",
+    "title": "Editor Setup - Tailwind CSS",
+    "found_at": "https://tailwindcss.com/docs",
+    "timestamp": "2024-11-14T22:48:43.500869800Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://tailwindcss.com/docs/flex",
+    "title": "Flex - Tailwind CSS",
+    "found_at": "https://tailwindcss.com/docs",
+    "timestamp": "2024-11-14T22:48:54.251151300Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://tailwindcss.com/docs/flex-basis",
+    "title": "Flex Basis - Tailwind CSS",
+    "found_at": "https://tailwindcss.com/docs",
+    "timestamp": "2024-11-14T22:48:53.706155700Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://tailwindcss.com/docs/flex-direction",
+    "title": "Flex Direction - Tailwind CSS",
+    "found_at": "https://tailwindcss.com/docs",
+    "timestamp": "2024-11-14T22:48:53.889450200Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://tailwindcss.com/docs/flex-grow",
+    "title": "Flex Grow - Tailwind CSS",
+    "found_at": "https://tailwindcss.com/docs",
+    "timestamp": "2024-11-14T22:48:54.436489300Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://tailwindcss.com/docs/flex-shrink",
+    "title": "Flex Shrink - Tailwind CSS",
+    "found_at": "https://tailwindcss.com/docs",
+    "timestamp": "2024-11-14T22:48:54.628410200Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://tailwindcss.com/docs/flex-wrap",
+    "title": "Flex Wrap - Tailwind CSS",
+    "found_at": "https://tailwindcss.com/docs",
+    "timestamp": "2024-11-14T22:48:54.064243600Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://tailwindcss.com/docs/float",
+    "title": "Floats - Tailwind CSS",
+    "found_at": "https://tailwindcss.com/docs",
+    "timestamp": "2024-11-14T22:48:51.615713500Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://tailwindcss.com/docs/font-family",
+    "title": "Font Family - Tailwind CSS",
+    "found_at": "https://tailwindcss.com/docs",
+    "timestamp": "2024-11-14T22:49:01.175308Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://tailwindcss.com/docs/font-size",
+    "title": "Font Size - Tailwind CSS",
+    "found_at": "https://tailwindcss.com/docs",
+    "timestamp": "2024-11-14T22:49:01.367266700Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://tailwindcss.com/docs/font-smoothing",
+    "title": "Font Smoothing - Tailwind CSS",
+    "found_at": "https://tailwindcss.com/docs",
+    "timestamp": "2024-11-14T22:49:01.576533600Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://tailwindcss.com/docs/font-style",
+    "title": "Font Style - Tailwind CSS",
+    "found_at": "https://tailwindcss.com/docs",
+    "timestamp": "2024-11-14T22:49:01.755410200Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://tailwindcss.com/docs/font-variant-numeric",
+    "title": "Font Variant Numeric - Tailwind CSS",
+    "found_at": "https://tailwindcss.com/docs",
+    "timestamp": "2024-11-14T22:49:02.189501400Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://tailwindcss.com/docs/font-weight",
+    "title": "Font Weight - Tailwind CSS",
+    "found_at": "https://tailwindcss.com/docs",
+    "timestamp": "2024-11-14T22:49:01.936504700Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://tailwindcss.com/docs/functions-and-directives",
+    "title": "Functions &amp; Directives - Tailwind CSS",
+    "found_at": "https://tailwindcss.com/docs",
+    "timestamp": "2024-11-14T22:48:46.137448400Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://tailwindcss.com/docs/gap",
+    "title": "Gap - Tailwind CSS",
+    "found_at": "https://tailwindcss.com/docs",
+    "timestamp": "2024-11-14T22:48:56.479073300Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://tailwindcss.com/docs/grid-auto-columns",
+    "title": "Grid Auto Columns - Tailwind CSS",
+    "found_at": "https://tailwindcss.com/docs",
+    "timestamp": "2024-11-14T22:48:56.102174400Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://tailwindcss.com/docs/grid-auto-flow",
+    "title": "Grid Auto Flow - Tailwind CSS",
+    "found_at": "https://tailwindcss.com/docs",
+    "timestamp": "2024-11-14T22:48:55.924795600Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://tailwindcss.com/docs/grid-auto-rows",
+    "title": "Grid Auto Rows - Tailwind CSS",
+    "found_at": "https://tailwindcss.com/docs",
+    "timestamp": "2024-11-14T22:48:56.281207800Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://tailwindcss.com/docs/grid-column",
+    "title": "Grid Column Start / End - Tailwind CSS",
+    "found_at": "https://tailwindcss.com/docs",
+    "timestamp": "2024-11-14T22:48:55.376003Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://tailwindcss.com/docs/grid-row",
+    "title": "Grid Row Start / End - Tailwind CSS",
+    "found_at": "https://tailwindcss.com/docs",
+    "timestamp": "2024-11-14T22:48:55.747897300Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://tailwindcss.com/docs/grid-template-columns",
+    "title": "Grid Template Columns - Tailwind CSS",
+    "found_at": "https://tailwindcss.com/docs",
+    "timestamp": "2024-11-14T22:48:55.186651500Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://tailwindcss.com/docs/grid-template-rows",
+    "title": "Grid Template Rows - Tailwind CSS",
+    "found_at": "https://tailwindcss.com/docs",
+    "timestamp": "2024-11-14T22:48:55.556609700Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://tailwindcss.com/docs/height",
+    "title": "Height - Tailwind CSS",
+    "found_at": "https://tailwindcss.com/docs",
+    "timestamp": "2024-11-14T22:49:00.077437100Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://tailwindcss.com/docs/hover-focus-and-other-states",
+    "title": "Handling Hover, Focus, and Other States - Tailwind CSS",
+    "found_at": "https://tailwindcss.com/docs",
+    "timestamp": "2024-11-14T22:48:45.098637400Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://tailwindcss.com/docs/installation",
+    "title": "Installation - Tailwind CSS",
+    "found_at": "https://tailwindcss.com/docs",
+    "timestamp": "2024-11-14T22:48:42.787551Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://tailwindcss.com/docs/isolation",
+    "title": "Isolation - Tailwind CSS",
+    "found_at": "https://tailwindcss.com/docs",
+    "timestamp": "2024-11-14T22:48:51.975032200Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://tailwindcss.com/docs/justify-content",
+    "title": "Justify Content - Tailwind CSS",
+    "found_at": "https://tailwindcss.com/docs",
+    "timestamp": "2024-11-14T22:48:56.662957800Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://tailwindcss.com/docs/justify-items",
+    "title": "Justify Items - Tailwind CSS",
+    "found_at": "https://tailwindcss.com/docs",
+    "timestamp": "2024-11-14T22:48:56.849899600Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://tailwindcss.com/docs/justify-self",
+    "title": "Justify Self - Tailwind CSS",
+    "found_at": "https://tailwindcss.com/docs",
+    "timestamp": "2024-11-14T22:48:57.030776700Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://tailwindcss.com/docs/letter-spacing",
+    "title": "Letter Spacing - Tailwind CSS",
+    "found_at": "https://tailwindcss.com/docs",
+    "timestamp": "2024-11-14T22:49:02.372341200Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://tailwindcss.com/docs/line-clamp",
+    "title": "Line Clamp - Tailwind CSS",
+    "found_at": "https://tailwindcss.com/docs",
+    "timestamp": "2024-11-14T22:49:02.554975200Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://tailwindcss.com/docs/line-height",
+    "title": "Line Height - Tailwind CSS",
+    "found_at": "https://tailwindcss.com/docs",
+    "timestamp": "2024-11-14T22:49:02.744550Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://tailwindcss.com/docs/list-style-image",
+    "title": "List Style Image - Tailwind CSS",
+    "found_at": "https://tailwindcss.com/docs",
+    "timestamp": "2024-11-14T22:49:02.929813100Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://tailwindcss.com/docs/list-style-position",
+    "title": "List Style Position - Tailwind CSS",
+    "found_at": "https://tailwindcss.com/docs",
+    "timestamp": "2024-11-14T22:49:03.105119500Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://tailwindcss.com/docs/list-style-type",
+    "title": "List Style Type - Tailwind CSS",
+    "found_at": "https://tailwindcss.com/docs",
+    "timestamp": "2024-11-14T22:49:03.282895Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://tailwindcss.com/docs/margin",
+    "title": "Margin - Tailwind CSS",
+    "found_at": "https://tailwindcss.com/docs",
+    "timestamp": "2024-11-14T22:48:59.071028500Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://tailwindcss.com/docs/max-height",
+    "title": "Max-Height - Tailwind CSS",
+    "found_at": "https://tailwindcss.com/docs",
+    "timestamp": "2024-11-14T22:49:00.726011600Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://tailwindcss.com/docs/max-width",
+    "title": "Max-Width - Tailwind CSS",
+    "found_at": "https://tailwindcss.com/docs",
+    "timestamp": "2024-11-14T22:48:59.881074400Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://tailwindcss.com/docs/min-height",
+    "title": "Min-Height - Tailwind CSS",
+    "found_at": "https://tailwindcss.com/docs",
+    "timestamp": "2024-11-14T22:49:00.284879500Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://tailwindcss.com/docs/min-width",
+    "title": "Min-Width - Tailwind CSS",
+    "found_at": "https://tailwindcss.com/docs",
+    "timestamp": "2024-11-14T22:48:59.681842700Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://tailwindcss.com/docs/object-fit",
+    "title": "Object Fit - Tailwind CSS",
+    "found_at": "https://tailwindcss.com/docs",
+    "timestamp": "2024-11-14T22:48:52.153789Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://tailwindcss.com/docs/object-position",
+    "title": "Object Position - Tailwind CSS",
+    "found_at": "https://tailwindcss.com/docs",
+    "timestamp": "2024-11-14T22:48:52.334121500Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://tailwindcss.com/docs/optimizing-for-production",
+    "title": "Optimizing for Production - Tailwind CSS",
+    "found_at": "https://tailwindcss.com/docs",
+    "timestamp": "2024-11-14T22:48:43.872768Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://tailwindcss.com/docs/order",
+    "title": "Order - Tailwind CSS",
+    "found_at": "https://tailwindcss.com/docs",
+    "timestamp": "2024-11-14T22:48:55.001500900Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://tailwindcss.com/docs/overflow",
+    "title": "Overflow - Tailwind CSS",
+    "found_at": "https://tailwindcss.com/docs",
+    "timestamp": "2024-11-14T22:48:52.522777800Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://tailwindcss.com/docs/overscroll-behavior",
+    "title": "Overscroll Behavior - Tailwind CSS",
+    "found_at": "https://tailwindcss.com/docs",
+    "timestamp": "2024-11-14T22:48:52.715626500Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://tailwindcss.com/docs/padding",
+    "title": "Padding - Tailwind CSS",
+    "found_at": "https://tailwindcss.com/docs",
+    "timestamp": "2024-11-14T22:48:58.816220200Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://tailwindcss.com/docs/place-content",
+    "title": "Place Content - Tailwind CSS",
+    "found_at": "https://tailwindcss.com/docs",
+    "timestamp": "2024-11-14T22:48:57.779816400Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://tailwindcss.com/docs/place-items",
+    "title": "Place Items - Tailwind CSS",
+    "found_at": "https://tailwindcss.com/docs",
+    "timestamp": "2024-11-14T22:48:57.972961400Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://tailwindcss.com/docs/place-self",
+    "title": "Place Self - Tailwind CSS",
+    "found_at": "https://tailwindcss.com/docs",
+    "timestamp": "2024-11-14T22:48:58.585339200Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://tailwindcss.com/docs/plugins",
+    "title": "Plugins - Tailwind CSS",
+    "found_at": "https://tailwindcss.com/docs",
+    "timestamp": "2024-11-14T22:48:47.608931400Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://tailwindcss.com/docs/position",
+    "title": "Position - Tailwind CSS",
+    "found_at": "https://tailwindcss.com/docs",
+    "timestamp": "2024-11-14T22:48:52.907453Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://tailwindcss.com/docs/preflight",
+    "title": "Preflight - Tailwind CSS",
+    "found_at": "https://tailwindcss.com/docs",
+    "timestamp": "2024-11-14T22:48:48.217314Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://tailwindcss.com/docs/presets",
+    "title": "Presets - Tailwind CSS",
+    "found_at": "https://tailwindcss.com/docs",
+    "timestamp": "2024-11-14T22:48:48.034554Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://tailwindcss.com/docs/responsive-design",
+    "title": "Responsive Design - Tailwind CSS",
+    "found_at": "https://tailwindcss.com/docs",
+    "timestamp": "2024-11-14T22:48:45.301338200Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://tailwindcss.com/docs/reusing-styles",
+    "title": "Reusing Styles - Tailwind CSS",
+    "found_at": "https://tailwindcss.com/docs",
+    "timestamp": "2024-11-14T22:48:45.726337900Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://tailwindcss.com/docs/screens",
+    "title": "Customizing Screens - Tailwind CSS",
+    "found_at": "https://tailwindcss.com/docs",
+    "timestamp": "2024-11-14T22:48:46.972522100Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://tailwindcss.com/docs/size",
+    "title": "Size - Tailwind CSS",
+    "found_at": "https://tailwindcss.com/docs",
+    "timestamp": "2024-11-14T22:49:00.983571700Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://tailwindcss.com/docs/space",
+    "title": "Space Between - Tailwind CSS",
+    "found_at": "https://tailwindcss.com/docs",
+    "timestamp": "2024-11-14T22:48:59.283577200Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://tailwindcss.com/docs/text-align",
+    "title": "Text Align - Tailwind CSS",
+    "found_at": "https://tailwindcss.com/docs",
+    "timestamp": "2024-11-14T22:49:03.456938500Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://tailwindcss.com/docs/text-color",
+    "title": "Text Color - Tailwind CSS",
+    "found_at": "https://tailwindcss.com/docs",
+    "timestamp": "2024-11-14T22:49:03.667944800Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://tailwindcss.com/docs/text-decoration",
+    "title": "Text Decoration - Tailwind CSS",
+    "found_at": "https://tailwindcss.com/docs",
+    "timestamp": "2024-11-14T22:49:03.851481700Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://tailwindcss.com/docs/text-decoration-color",
+    "title": "Text Decoration Color - Tailwind CSS",
+    "found_at": "https://tailwindcss.com/docs",
+    "timestamp": "2024-11-14T22:49:04.061313Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://tailwindcss.com/docs/text-decoration-style",
+    "title": "Text Decoration Style - Tailwind CSS",
+    "found_at": "https://tailwindcss.com/docs",
+    "timestamp": "2024-11-14T22:49:04.251281Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://tailwindcss.com/docs/text-decoration-thickness",
+    "title": "Text Decoration Thickness - Tailwind CSS",
+    "found_at": "https://tailwindcss.com/docs",
+    "timestamp": "2024-11-14T22:49:04.431743200Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://tailwindcss.com/docs/theme",
+    "title": "Theme Configuration - Tailwind CSS",
+    "found_at": "https://tailwindcss.com/docs",
+    "timestamp": "2024-11-14T22:48:46.793168400Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://tailwindcss.com/docs/top-right-bottom-left",
+    "title": "Top / Right / Bottom / Left - Tailwind CSS",
+    "found_at": "https://tailwindcss.com/docs",
+    "timestamp": "2024-11-14T22:48:53.146226900Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://tailwindcss.com/docs/upgrade-guide",
+    "title": "Upgrade Guide - Tailwind CSS",
+    "found_at": "https://tailwindcss.com/docs",
+    "timestamp": "2024-11-14T22:48:44.470859300Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://tailwindcss.com/docs/using-with-preprocessors",
+    "title": "Using with Preprocessors - Tailwind CSS",
+    "found_at": "https://tailwindcss.com/docs",
+    "timestamp": "2024-11-14T22:48:43.695677300Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://tailwindcss.com/docs/utility-first",
+    "title": "Utility-First Fundamentals - Tailwind CSS",
+    "found_at": "https://tailwindcss.com/docs",
+    "timestamp": "2024-11-14T22:48:44.670496Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://tailwindcss.com/docs/visibility",
+    "title": "Visibility - Tailwind CSS",
+    "found_at": "https://tailwindcss.com/docs",
+    "timestamp": "2024-11-14T22:48:53.330513900Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://tailwindcss.com/docs/width",
+    "title": "Width - Tailwind CSS",
+    "found_at": "https://tailwindcss.com/docs",
+    "timestamp": "2024-11-14T22:48:59.489684700Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://tailwindcss.com/docs/z-index",
+    "title": "Z-Index - Tailwind CSS",
+    "found_at": "https://tailwindcss.com/docs",
+    "timestamp": "2024-11-14T22:48:53.518528200Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://tailwindcss.com/resources",
+    "title": "Resources - Tailwind CSS",
+    "found_at": "https://tailwindcss.com/docs",
+    "timestamp": "2024-11-14T22:48:43.331202700Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://tailwindcss.com/showcase",
+    "title": "Example Showcase - Tailwind CSS",
+    "found_at": "https://tailwindcss.com/docs",
+    "timestamp": "2024-11-14T22:48:43.156030900Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://www.typescriptlang.org/",
+    "title": "TypeScript: JavaScript With Syntax For Types.",
+    "found_at": "https://www.typescriptlang.org/docs/",
+    "timestamp": "2024-11-14T22:57:15.907184200Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://www.typescriptlang.org/#",
+    "title": "TypeScript: JavaScript With Syntax For Types.",
+    "found_at": "https://www.typescriptlang.org/",
+    "timestamp": "2024-11-14T22:57:42.479101500Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://www.typescriptlang.org/#m-stories",
+    "title": "TypeScript: JavaScript With Syntax For Types.",
+    "found_at": "https://www.typescriptlang.org/",
+    "timestamp": "2024-11-14T22:57:42.954502900Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://www.typescriptlang.org/#site-content",
+    "title": "TypeScript: JavaScript With Syntax For Types.",
+    "found_at": "https://www.typescriptlang.org/",
+    "timestamp": "2024-11-14T22:57:42.022669500Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://www.typescriptlang.org/assets/typescript-cheat-sheets.zip",
+    "title": "https://www.typescriptlang.org/assets/typescript-cheat-sheets.zip",
+    "found_at": "https://www.typescriptlang.org/docs/",
+    "timestamp": "2024-11-14T22:57:40.649038800Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://www.typescriptlang.org/branding/",
+    "title": "TypeScript: Branding",
+    "found_at": "https://www.typescriptlang.org/docs/",
+    "timestamp": "2024-11-14T22:57:41.560802700Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://www.typescriptlang.org/cheatsheets/",
+    "title": "TypeScript: Cheat Sheets",
+    "found_at": "https://www.typescriptlang.org/docs/",
+    "timestamp": "2024-11-14T22:57:23.513380400Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://www.typescriptlang.org/community",
+    "title": "TypeScript: TypeScript Community Resources",
+    "found_at": "https://www.typescriptlang.org/docs/",
+    "timestamp": "2024-11-14T22:57:41.845405300Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://www.typescriptlang.org/community/",
+    "title": "TypeScript: TypeScript Community Resources",
+    "found_at": "https://www.typescriptlang.org/docs/",
+    "timestamp": "2024-11-14T22:57:16.655669800Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://www.typescriptlang.org/docs/",
+    "title": "TypeScript: The starting point for learning TypeScript",
+    "found_at": "starting_point",
+    "timestamp": "2024-11-14T22:57:15.558509100Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://www.typescriptlang.org/docs/#site-content",
+    "title": "TypeScript: The starting point for learning TypeScript",
+    "found_at": "https://www.typescriptlang.org/docs/",
+    "timestamp": "2024-11-14T22:57:15.720434600Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://www.typescriptlang.org/docs/handbook/2/basic-types.html",
+    "title": "TypeScript: Documentation - The Basics",
+    "found_at": "https://www.typescriptlang.org/docs/",
+    "timestamp": "2024-11-14T22:57:18.803146Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://www.typescriptlang.org/docs/handbook/2/classes.html",
+    "title": "TypeScript: Documentation - Classes",
+    "found_at": "https://www.typescriptlang.org/docs/",
+    "timestamp": "2024-11-14T22:57:22.662388800Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://www.typescriptlang.org/docs/handbook/2/conditional-types.html",
+    "title": "TypeScript: Documentation - Conditional Types",
+    "found_at": "https://www.typescriptlang.org/docs/",
+    "timestamp": "2024-11-14T22:57:21.733503100Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://www.typescriptlang.org/docs/handbook/2/everyday-types.html",
+    "title": "TypeScript: Documentation - Everyday Types",
+    "found_at": "https://www.typescriptlang.org/docs/",
+    "timestamp": "2024-11-14T22:57:19.116916200Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://www.typescriptlang.org/docs/handbook/2/functions.html",
+    "title": "TypeScript: Documentation - More on Functions",
+    "found_at": "https://www.typescriptlang.org/docs/",
+    "timestamp": "2024-11-14T22:57:19.778985500Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://www.typescriptlang.org/docs/handbook/2/generics.html",
+    "title": "TypeScript: Documentation - Generics",
+    "found_at": "https://www.typescriptlang.org/docs/",
+    "timestamp": "2024-11-14T22:57:20.671311500Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://www.typescriptlang.org/docs/handbook/2/indexed-access-types.html",
+    "title": "TypeScript: Documentation - Indexed Access Types",
+    "found_at": "https://www.typescriptlang.org/docs/",
+    "timestamp": "2024-11-14T22:57:21.455399200Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://www.typescriptlang.org/docs/handbook/2/keyof-types.html",
+    "title": "TypeScript: Documentation - Keyof Type Operator",
+    "found_at": "https://www.typescriptlang.org/docs/",
+    "timestamp": "2024-11-14T22:57:20.932671500Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://www.typescriptlang.org/docs/handbook/2/mapped-types.html",
+    "title": "TypeScript: Documentation - Mapped Types",
+    "found_at": "https://www.typescriptlang.org/docs/",
+    "timestamp": "2024-11-14T22:57:22.015859400Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://www.typescriptlang.org/docs/handbook/2/modules.html",
+    "title": "TypeScript: Documentation - Modules",
+    "found_at": "https://www.typescriptlang.org/docs/",
+    "timestamp": "2024-11-14T22:57:22.954231100Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://www.typescriptlang.org/docs/handbook/2/narrowing.html",
+    "title": "TypeScript: Documentation - Narrowing",
+    "found_at": "https://www.typescriptlang.org/docs/",
+    "timestamp": "2024-11-14T22:57:19.441838600Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://www.typescriptlang.org/docs/handbook/2/objects.html",
+    "title": "TypeScript: Documentation - Object Types",
+    "found_at": "https://www.typescriptlang.org/docs/",
+    "timestamp": "2024-11-14T22:57:20.121194100Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://www.typescriptlang.org/docs/handbook/2/template-literal-types.html",
+    "title": "TypeScript: Documentation - Template Literal Types",
+    "found_at": "https://www.typescriptlang.org/docs/",
+    "timestamp": "2024-11-14T22:57:22.299389500Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://www.typescriptlang.org/docs/handbook/2/typeof-types.html",
+    "title": "TypeScript: Documentation - Typeof Type Operator",
+    "found_at": "https://www.typescriptlang.org/docs/",
+    "timestamp": "2024-11-14T22:57:21.199255200Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://www.typescriptlang.org/docs/handbook/2/types-from-types.html",
+    "title": "TypeScript: Documentation - Creating Types from Types",
+    "found_at": "https://www.typescriptlang.org/docs/",
+    "timestamp": "2024-11-14T22:57:20.380063500Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://www.typescriptlang.org/docs/handbook/asp-net-core.html",
+    "title": "TypeScript: Documentation - ASP.NET Core",
+    "found_at": "https://www.typescriptlang.org/docs/",
+    "timestamp": "2024-11-14T22:57:29.016031500Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://www.typescriptlang.org/docs/handbook/babel-with-typescript.html",
+    "title": "TypeScript: Documentation - Using Babel with TypeScript",
+    "found_at": "https://www.typescriptlang.org/docs/",
+    "timestamp": "2024-11-14T22:57:30.246791100Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://www.typescriptlang.org/docs/handbook/compiler-options-in-msbuild.html",
+    "title": "TypeScript: Documentation - Compiler Options in MSBuild",
+    "found_at": "https://www.typescriptlang.org/docs/",
+    "timestamp": "2024-11-14T22:57:35.453839100Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://www.typescriptlang.org/docs/handbook/compiler-options.html",
+    "title": "TypeScript: Documentation - tsc CLI Options",
+    "found_at": "https://www.typescriptlang.org/docs/",
+    "timestamp": "2024-11-14T22:57:36.263565300Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://www.typescriptlang.org/docs/handbook/configuring-watch.html",
+    "title": "TypeScript: Documentation - Configuring Watch",
+    "found_at": "https://www.typescriptlang.org/docs/",
+    "timestamp": "2024-11-14T22:57:37.063771600Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://www.typescriptlang.org/docs/handbook/declaration-files/by-example.html",
+    "title": "TypeScript: Documentation - Declaration Reference",
+    "found_at": "https://www.typescriptlang.org/docs/",
+    "timestamp": "2024-11-14T22:57:30.775181800Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://www.typescriptlang.org/docs/handbook/declaration-files/consumption.html",
+    "title": "TypeScript: Documentation - Consumption",
+    "found_at": "https://www.typescriptlang.org/docs/",
+    "timestamp": "2024-11-14T22:57:33.772029600Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://www.typescriptlang.org/docs/handbook/declaration-files/deep-dive.html",
+    "title": "TypeScript: Documentation - Deep Dive",
+    "found_at": "https://www.typescriptlang.org/docs/",
+    "timestamp": "2024-11-14T22:57:33.254054900Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://www.typescriptlang.org/docs/handbook/declaration-files/do-s-and-don-ts.html",
+    "title": "TypeScript: Documentation - Do's and Don'ts",
+    "found_at": "https://www.typescriptlang.org/docs/",
+    "timestamp": "2024-11-14T22:57:32.979415400Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://www.typescriptlang.org/docs/handbook/declaration-files/dts-from-js.html",
+    "title": "TypeScript: Documentation - Creating .d.ts Files from .js files",
+    "found_at": "https://www.typescriptlang.org/docs/",
+    "timestamp": "2024-11-14T22:57:34.896268200Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://www.typescriptlang.org/docs/handbook/declaration-files/introduction.html",
+    "title": "TypeScript: Documentation - Introduction",
+    "found_at": "https://www.typescriptlang.org/docs/",
+    "timestamp": "2024-11-14T22:57:30.509091800Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://www.typescriptlang.org/docs/handbook/declaration-files/library-structures.html",
+    "title": "TypeScript: Documentation - Library Structures",
+    "found_at": "https://www.typescriptlang.org/docs/",
+    "timestamp": "2024-11-14T22:57:31.063308Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://www.typescriptlang.org/docs/handbook/declaration-files/publishing.html",
+    "title": "TypeScript: Documentation - Publishing",
+    "found_at": "https://www.typescriptlang.org/docs/",
+    "timestamp": "2024-11-14T22:57:33.510289700Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://www.typescriptlang.org/docs/handbook/declaration-files/templates/global-d-ts.html",
+    "title": "TypeScript: Documentation - Global .d.ts",
+    "found_at": "https://www.typescriptlang.org/docs/",
+    "timestamp": "2024-11-14T22:57:32.443373200Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://www.typescriptlang.org/docs/handbook/declaration-files/templates/global-modifying-module-d-ts.html",
+    "title": "TypeScript: Documentation - Global: Modifying Module",
+    "found_at": "https://www.typescriptlang.org/docs/",
+    "timestamp": "2024-11-14T22:57:32.707106400Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://www.typescriptlang.org/docs/handbook/declaration-files/templates/module-class-d-ts.html",
+    "title": "TypeScript: Documentation - Module: Class",
+    "found_at": "https://www.typescriptlang.org/docs/",
+    "timestamp": "2024-11-14T22:57:31.907798300Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://www.typescriptlang.org/docs/handbook/declaration-files/templates/module-d-ts.html",
+    "title": "TypeScript: Documentation - Modules .d.ts",
+    "found_at": "https://www.typescriptlang.org/docs/",
+    "timestamp": "2024-11-14T22:57:31.331389100Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://www.typescriptlang.org/docs/handbook/declaration-files/templates/module-function-d-ts.html",
+    "title": "TypeScript: Documentation - Module: Function",
+    "found_at": "https://www.typescriptlang.org/docs/",
+    "timestamp": "2024-11-14T22:57:32.160354700Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://www.typescriptlang.org/docs/handbook/declaration-files/templates/module-plugin-d-ts.html",
+    "title": "TypeScript: Documentation - Module: Plugin",
+    "found_at": "https://www.typescriptlang.org/docs/",
+    "timestamp": "2024-11-14T22:57:31.599388800Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://www.typescriptlang.org/docs/handbook/declaration-merging.html",
+    "title": "TypeScript: Documentation - Declaration Merging",
+    "found_at": "https://www.typescriptlang.org/docs/",
+    "timestamp": "2024-11-14T22:57:24.088591300Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://www.typescriptlang.org/docs/handbook/decorators.html",
+    "title": "TypeScript: Documentation - Decorators",
+    "found_at": "https://www.typescriptlang.org/docs/",
+    "timestamp": "2024-11-14T22:57:23.811834500Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://www.typescriptlang.org/docs/handbook/dom-manipulation.html",
+    "title": "TypeScript: Documentation - DOM Manipulation",
+    "found_at": "https://www.typescriptlang.org/docs/",
+    "timestamp": "2024-11-14T22:57:29.675456900Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://www.typescriptlang.org/docs/handbook/enums.html",
+    "title": "TypeScript: Handbook - Enums",
+    "found_at": "https://www.typescriptlang.org/docs/",
+    "timestamp": "2024-11-14T22:57:24.407851200Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://www.typescriptlang.org/docs/handbook/gulp.html",
+    "title": "TypeScript: Documentation - Gulp",
+    "found_at": "https://www.typescriptlang.org/docs/",
+    "timestamp": "2024-11-14T22:57:29.381829100Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://www.typescriptlang.org/docs/handbook/integrating-with-build-tools.html",
+    "title": "TypeScript: Documentation - Integrating with Build Tools",
+    "found_at": "https://www.typescriptlang.org/docs/",
+    "timestamp": "2024-11-14T22:57:36.800683900Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://www.typescriptlang.org/docs/handbook/intro-to-js-ts.html",
+    "title": "TypeScript: Documentation - JS Projects Utilizing TypeScript",
+    "found_at": "https://www.typescriptlang.org/docs/",
+    "timestamp": "2024-11-14T22:57:34.031391200Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://www.typescriptlang.org/docs/handbook/intro.html",
+    "title": "TypeScript: Handbook - The TypeScript Handbook",
+    "found_at": "https://www.typescriptlang.org/docs/",
+    "timestamp": "2024-11-14T22:57:16.406409100Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://www.typescriptlang.org/docs/handbook/intro.html#handbook-content",
+    "title": "TypeScript: Handbook - The TypeScript Handbook",
+    "found_at": "https://www.typescriptlang.org/docs/handbook/intro.html",
+    "timestamp": "2024-11-14T22:57:43.729294500Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://www.typescriptlang.org/docs/handbook/iterators-and-generators.html",
+    "title": "TypeScript: Documentation - Iterators and Generators",
+    "found_at": "https://www.typescriptlang.org/docs/",
+    "timestamp": "2024-11-14T22:57:24.683634500Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://www.typescriptlang.org/docs/handbook/jsdoc-supported-types.html",
+    "title": "TypeScript: Documentation - JSDoc Reference",
+    "found_at": "https://www.typescriptlang.org/docs/",
+    "timestamp": "2024-11-14T22:57:34.634790900Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://www.typescriptlang.org/docs/handbook/jsx.html",
+    "title": "TypeScript: Documentation - JSX",
+    "found_at": "https://www.typescriptlang.org/docs/",
+    "timestamp": "2024-11-14T22:57:24.972770100Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://www.typescriptlang.org/docs/handbook/migrating-from-javascript.html",
+    "title": "TypeScript: Documentation - Migrating from JavaScript",
+    "found_at": "https://www.typescriptlang.org/docs/",
+    "timestamp": "2024-11-14T22:57:29.967786700Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://www.typescriptlang.org/docs/handbook/mixins.html",
+    "title": "TypeScript: Documentation - Mixins",
+    "found_at": "https://www.typescriptlang.org/docs/",
+    "timestamp": "2024-11-14T22:57:25.251022100Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://www.typescriptlang.org/docs/handbook/modules/appendices/esm-cjs-interop.html",
+    "title": "TypeScript: Documentation - Modules - ESM/CJS Interoperability",
+    "found_at": "https://www.typescriptlang.org/docs/",
+    "timestamp": "2024-11-14T22:57:28.683743Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://www.typescriptlang.org/docs/handbook/modules/guides/choosing-compiler-options.html",
+    "title": "TypeScript: Documentation - Modules - Choosing Compiler Options",
+    "found_at": "https://www.typescriptlang.org/docs/",
+    "timestamp": "2024-11-14T22:57:28.035754900Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://www.typescriptlang.org/docs/handbook/modules/introduction.html",
+    "title": "TypeScript: Documentation - Modules - Introduction",
+    "found_at": "https://www.typescriptlang.org/docs/",
+    "timestamp": "2024-11-14T22:57:27.484236700Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://www.typescriptlang.org/docs/handbook/modules/reference.html",
+    "title": "TypeScript: Documentation - Modules - Reference",
+    "found_at": "https://www.typescriptlang.org/docs/",
+    "timestamp": "2024-11-14T22:57:28.391981700Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://www.typescriptlang.org/docs/handbook/modules/theory.html",
+    "title": "TypeScript: Documentation - Modules - Theory",
+    "found_at": "https://www.typescriptlang.org/docs/",
+    "timestamp": "2024-11-14T22:57:27.755697400Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://www.typescriptlang.org/docs/handbook/namespaces-and-modules.html",
+    "title": "TypeScript: Documentation - Namespaces and Modules",
+    "found_at": "https://www.typescriptlang.org/docs/",
+    "timestamp": "2024-11-14T22:57:25.793002800Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://www.typescriptlang.org/docs/handbook/namespaces.html",
+    "title": "TypeScript: Documentation - Namespaces",
+    "found_at": "https://www.typescriptlang.org/docs/",
+    "timestamp": "2024-11-14T22:57:25.528992100Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://www.typescriptlang.org/docs/handbook/nightly-builds.html",
+    "title": "TypeScript: Documentation - Nightly Builds",
+    "found_at": "https://www.typescriptlang.org/docs/",
+    "timestamp": "2024-11-14T22:57:37.311616600Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://www.typescriptlang.org/docs/handbook/project-references.html",
+    "title": "TypeScript: Documentation - Project References",
+    "found_at": "https://www.typescriptlang.org/docs/",
+    "timestamp": "2024-11-14T22:57:36.536040300Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://www.typescriptlang.org/docs/handbook/react-&-webpack.html",
+    "title": "https://www.typescriptlang.org/docs/handbook/react-&-webpack.html",
+    "found_at": "https://www.typescriptlang.org/docs/",
+    "timestamp": "2024-11-14T22:57:40.892803800Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://www.typescriptlang.org/docs/handbook/release-notes/typescript-5-2.html",
+    "title": "TypeScript: Documentation - TypeScript 5.2",
+    "found_at": "https://www.typescriptlang.org/docs/handbook/intro.html",
+    "timestamp": "2024-11-14T22:57:44.916718400Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://www.typescriptlang.org/docs/handbook/release-notes/typescript-5-3.html",
+    "title": "TypeScript: Documentation - TypeScript 5.3",
+    "found_at": "https://www.typescriptlang.org/docs/handbook/intro.html",
+    "timestamp": "2024-11-14T22:57:44.609028300Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://www.typescriptlang.org/docs/handbook/release-notes/typescript-5-4.html",
+    "title": "TypeScript: Documentation - TypeScript 5.4",
+    "found_at": "https://www.typescriptlang.org/docs/handbook/intro.html",
+    "timestamp": "2024-11-14T22:57:44.329823800Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://www.typescriptlang.org/docs/handbook/release-notes/typescript-5-5.html",
+    "title": "TypeScript: Documentation - TypeScript 5.5",
+    "found_at": "https://www.typescriptlang.org/docs/handbook/intro.html",
+    "timestamp": "2024-11-14T22:57:44.041940100Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://www.typescriptlang.org/docs/handbook/symbols.html",
+    "title": "TypeScript: Documentation - Symbols",
+    "found_at": "https://www.typescriptlang.org/docs/",
+    "timestamp": "2024-11-14T22:57:26.075860100Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://www.typescriptlang.org/docs/handbook/triple-slash-directives.html",
+    "title": "TypeScript: Documentation - Triple-Slash Directives",
+    "found_at": "https://www.typescriptlang.org/docs/",
+    "timestamp": "2024-11-14T22:57:26.344689200Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://www.typescriptlang.org/docs/handbook/tsconfig-json.html",
+    "title": "TypeScript: Documentation - What is a tsconfig.json",
+    "found_at": "https://www.typescriptlang.org/docs/",
+    "timestamp": "2024-11-14T22:57:35.163702900Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://www.typescriptlang.org/docs/handbook/type-checking-javascript-files.html",
+    "title": "TypeScript: Documentation - Type Checking JavaScript Files",
+    "found_at": "https://www.typescriptlang.org/docs/",
+    "timestamp": "2024-11-14T22:57:34.319856500Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://www.typescriptlang.org/docs/handbook/type-compatibility.html",
+    "title": "TypeScript: Documentation - Type Compatibility",
+    "found_at": "https://www.typescriptlang.org/docs/",
+    "timestamp": "2024-11-14T22:57:26.622436500Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://www.typescriptlang.org/docs/handbook/type-inference.html",
+    "title": "TypeScript: Documentation - Type Inference",
+    "found_at": "https://www.typescriptlang.org/docs/",
+    "timestamp": "2024-11-14T22:57:26.890013700Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://www.typescriptlang.org/docs/handbook/typescript-from-scratch.html",
+    "title": "TypeScript: Documentation - TypeScript for the New Programmer",
+    "found_at": "https://www.typescriptlang.org/docs/",
+    "timestamp": "2024-11-14T22:57:17.412384400Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://www.typescriptlang.org/docs/handbook/typescript-in-5-minutes-func.html",
+    "title": "TypeScript: Documentation - TypeScript for Functional Programmers",
+    "found_at": "https://www.typescriptlang.org/docs/",
+    "timestamp": "2024-11-14T22:57:18.248574Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://www.typescriptlang.org/docs/handbook/typescript-in-5-minutes-oop.html",
+    "title": "TypeScript: Documentation - TypeScript for Java/C# Programmers",
+    "found_at": "https://www.typescriptlang.org/docs/",
+    "timestamp": "2024-11-14T22:57:17.966760400Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://www.typescriptlang.org/docs/handbook/typescript-in-5-minutes.html",
+    "title": "TypeScript: Documentation - TypeScript for JavaScript Programmers",
+    "found_at": "https://www.typescriptlang.org/docs/",
+    "timestamp": "2024-11-14T22:57:17.699435400Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://www.typescriptlang.org/docs/handbook/typescript-tooling-in-5-minutes.html",
+    "title": "TypeScript: Documentation - TypeScript Tooling in 5 minutes",
+    "found_at": "https://www.typescriptlang.org/docs/",
+    "timestamp": "2024-11-14T22:57:18.521483500Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://www.typescriptlang.org/docs/handbook/utility-types.html",
+    "title": "TypeScript: Documentation - Utility Types",
+    "found_at": "https://www.typescriptlang.org/docs/",
+    "timestamp": "2024-11-14T22:57:23.269600900Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://www.typescriptlang.org/docs/handbook/variable-declarations.html",
+    "title": "TypeScript: Documentation - Variable Declaration",
+    "found_at": "https://www.typescriptlang.org/docs/",
+    "timestamp": "2024-11-14T22:57:27.216678900Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://www.typescriptlang.org/download",
+    "title": "TypeScript: How to set up TypeScript",
+    "found_at": "https://www.typescriptlang.org/",
+    "timestamp": "2024-11-14T22:57:42.302794100Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://www.typescriptlang.org/download/",
+    "title": "TypeScript: How to set up TypeScript",
+    "found_at": "https://www.typescriptlang.org/docs/",
+    "timestamp": "2024-11-14T22:57:16.154059100Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://www.typescriptlang.org/download/#site-content",
+    "title": "TypeScript: How to set up TypeScript",
+    "found_at": "https://www.typescriptlang.org/download/",
+    "timestamp": "2024-11-14T22:57:43.103042900Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://www.typescriptlang.org/play",
+    "title": "TypeScript: TS Playground - An online editor for exploring TypeScript and JavaScript",
+    "found_at": "https://www.typescriptlang.org/",
+    "timestamp": "2024-11-14T22:57:42.771086Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://www.typescriptlang.org/play/",
+    "title": "TypeScript: TS Playground - An online editor for exploring TypeScript and JavaScript",
+    "found_at": "https://www.typescriptlang.org/docs/",
+    "timestamp": "2024-11-14T22:57:16.910215100Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://www.typescriptlang.org/play/#show-examples",
+    "title": "TypeScript: TS Playground - An online editor for exploring TypeScript and JavaScript",
+    "found_at": "https://www.typescriptlang.org/docs/",
+    "timestamp": "2024-11-14T22:57:41.043217900Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://www.typescriptlang.org/static/TypeScript%20Classes-83cc6f8e42ba2002d5e2c04221fa78f9.png",
+    "title": "https://www.typescriptlang.org/static/TypeScript%20Classes-83cc6f8e42ba2002d5e2c04221fa78f9.png",
+    "found_at": "https://www.typescriptlang.org/docs/",
+    "timestamp": "2024-11-14T22:57:37.868127400Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://www.typescriptlang.org/static/TypeScript%20Control%20Flow%20Analysis-8a549253ad8470850b77c4c5c351d457.png",
+    "title": "https://www.typescriptlang.org/static/TypeScript%20Control%20Flow%20Analysis-8a549253ad8470850b77c4c5c351d457.png",
+    "found_at": "https://www.typescriptlang.org/docs/",
+    "timestamp": "2024-11-14T22:57:37.587426400Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://www.typescriptlang.org/static/TypeScript%20Interfaces-34f1ad12132fb463bd1dfe5b85c5b2e6.png",
+    "title": "https://www.typescriptlang.org/static/TypeScript%20Interfaces-34f1ad12132fb463bd1dfe5b85c5b2e6.png",
+    "found_at": "https://www.typescriptlang.org/docs/",
+    "timestamp": "2024-11-14T22:57:38.127551500Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://www.typescriptlang.org/static/TypeScript%20Types-ae199d69aeecf7d4a2704a528d0fd3f9.png",
+    "title": "https://www.typescriptlang.org/static/TypeScript%20Types-ae199d69aeecf7d4a2704a528d0fd3f9.png",
+    "found_at": "https://www.typescriptlang.org/docs/",
+    "timestamp": "2024-11-14T22:57:38.517861300Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://www.typescriptlang.org/tools/",
+    "title": "TypeScript: Reference Tools",
+    "found_at": "https://www.typescriptlang.org/docs/",
+    "timestamp": "2024-11-14T22:57:17.155799900Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://www.typescriptlang.org/tsconfig/",
+    "title": "TypeScript: TSConfig Reference - Docs on every TSConfig option",
+    "found_at": "https://www.typescriptlang.org/docs/",
+    "timestamp": "2024-11-14T22:57:35.959809300Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://www.typescriptlang.org/tsconfig/#isolatedModules",
+    "title": "TypeScript: TSConfig Reference - Docs on every TSConfig option",
+    "found_at": "https://www.typescriptlang.org/download/",
+    "timestamp": "2024-11-14T22:57:43.536626100Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://www.typescriptlang.org/why-create-typescript/",
+    "title": "TypeScript: Why does TypeScript exist?",
+    "found_at": "https://www.typescriptlang.org/docs/",
+    "timestamp": "2024-11-14T22:57:41.311917200Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://www.w3schools.com/",
+    "title": "W3Schools Online Web Tutorials",
+    "found_at": "https://www.w3schools.com/js/",
+    "timestamp": "2024-11-14T22:56:49.331880Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://www.w3schools.com/academy/index.php",
+    "title": "W3Schools Academy",
+    "found_at": "https://www.w3schools.com/js/",
+    "timestamp": "2024-11-14T22:56:50.472029900Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://www.w3schools.com/academy/teachers/index.php",
+    "title": "W3Schools Academy",
+    "found_at": "https://www.w3schools.com/js/",
+    "timestamp": "2024-11-14T22:56:49.879185600Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://www.w3schools.com/accessibility/index.php",
+    "title": "Accessibility Tutorial",
+    "found_at": "https://www.w3schools.com/js/",
+    "timestamp": "2024-11-14T22:57:03.405070100Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://www.w3schools.com/ai/default.asp",
+    "title": "Machine Learning Intro",
+    "found_at": "https://www.w3schools.com/js/",
+    "timestamp": "2024-11-14T22:56:57.911580100Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://www.w3schools.com/angular/angular_ref_directives.asp",
+    "title": "Angular Reference",
+    "found_at": "https://www.w3schools.com/js/",
+    "timestamp": "2024-11-14T22:57:05.831989300Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://www.w3schools.com/angular/default.asp",
+    "title": "AngularJS Tutorial",
+    "found_at": "https://www.w3schools.com/js/",
+    "timestamp": "2024-11-14T22:57:05.608968900Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://www.w3schools.com/appml/appml_reference.asp",
+    "title": "AppML Reference",
+    "found_at": "https://www.w3schools.com/js/",
+    "timestamp": "2024-11-14T22:57:07.223057300Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://www.w3schools.com/appml/default.asp",
+    "title": "AppML Tutorial",
+    "found_at": "https://www.w3schools.com/js/",
+    "timestamp": "2024-11-14T22:57:06.981746500Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://www.w3schools.com/asp/asp_ref_vbscript_functions.asp",
+    "title": "VBScript Functions",
+    "found_at": "https://www.w3schools.com/js/",
+    "timestamp": "2024-11-14T22:57:13.124993400Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://www.w3schools.com/asp/default.asp",
+    "title": "ASP Tutorial",
+    "found_at": "https://www.w3schools.com/js/",
+    "timestamp": "2024-11-14T22:57:12.903242900Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://www.w3schools.com/aws/index.php",
+    "title": "AWS Cloud Practitioner Tutorial",
+    "found_at": "https://www.w3schools.com/js/",
+    "timestamp": "2024-11-14T22:57:14.432559900Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://www.w3schools.com/bootstrap/bootstrap_ver.asp",
+    "title": "Choose a Bootstrap Version (3, 4 or 5)",
+    "found_at": "https://www.w3schools.com/js/",
+    "timestamp": "2024-11-14T22:56:53.139517600Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://www.w3schools.com/browsers/default.asp",
+    "title": "Browser Statistics",
+    "found_at": "https://www.w3schools.com/js/",
+    "timestamp": "2024-11-14T22:57:02.102589700Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://www.w3schools.com/c/c_ref_reference.php",
+    "title": "C Keywords",
+    "found_at": "https://www.w3schools.com/js/",
+    "timestamp": "2024-11-14T22:57:10.500448600Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://www.w3schools.com/c/index.php",
+    "title": "C Tutorial",
+    "found_at": "https://www.w3schools.com/js/",
+    "timestamp": "2024-11-14T22:57:10.283794700Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://www.w3schools.com/charsets/default.asp",
+    "title": "HTML Character Sets",
+    "found_at": "https://www.w3schools.com/js/",
+    "timestamp": "2024-11-14T22:56:57.435717100Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://www.w3schools.com/codegame/index.html",
+    "title": "W3Schools Code Game",
+    "found_at": "https://www.w3schools.com/js/",
+    "timestamp": "2024-11-14T22:57:02.918531500Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://www.w3schools.com/colors/colors_fs595.asp",
+    "title": "Colors - FS 595",
+    "found_at": "https://www.w3schools.com/js/",
+    "timestamp": "2024-11-14T22:56:54.573913600Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://www.w3schools.com/colors/default.asp",
+    "title": "Colors Tutorial",
+    "found_at": "https://www.w3schools.com/js/",
+    "timestamp": "2024-11-14T22:56:54.317439300Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://www.w3schools.com/cpp/cpp_ref_reference.asp",
+    "title": "C++ Reference Documentation",
+    "found_at": "https://www.w3schools.com/js/",
+    "timestamp": "2024-11-14T22:57:10.945018900Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://www.w3schools.com/cpp/default.asp",
+    "title": "C++ Tutorial",
+    "found_at": "https://www.w3schools.com/js/",
+    "timestamp": "2024-11-14T22:57:10.725636800Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://www.w3schools.com/cs/index.php",
+    "title": "C# Tutorial (C Sharp)",
+    "found_at": "https://www.w3schools.com/js/",
+    "timestamp": "2024-11-14T22:57:11.164823Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://www.w3schools.com/css",
+    "title": "CSS Tutorial",
+    "found_at": "starting_point",
+    "timestamp": "2024-11-14T22:58:11.993725Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://www.w3schools.com/css/css_rwd_intro.asp",
+    "title": "Responsive Web Design Introduction",
+    "found_at": "https://www.w3schools.com/js/",
+    "timestamp": "2024-11-14T22:56:52.912113600Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://www.w3schools.com/css/default.asp",
+    "title": "CSS Tutorial",
+    "found_at": "https://www.w3schools.com/js/",
+    "timestamp": "2024-11-14T22:56:51.766523Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://www.w3schools.com/cssref/default.asp",
+    "title": "CSS Reference",
+    "found_at": "https://www.w3schools.com/js/",
+    "timestamp": "2024-11-14T22:56:52.663597400Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://www.w3schools.com/cybersecurity/index.php",
+    "title": "Cyber Security Tutorial",
+    "found_at": "https://www.w3schools.com/js/",
+    "timestamp": "2024-11-14T22:57:03.122962800Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://www.w3schools.com/datascience/default.asp",
+    "title": "Data Science Tutorial",
+    "found_at": "https://www.w3schools.com/js/",
+    "timestamp": "2024-11-14T22:56:59.785517700Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://www.w3schools.com/django/django_ref_template_tags.php",
+    "title": "Django Template Tags Reference",
+    "found_at": "https://www.w3schools.com/js/",
+    "timestamp": "2024-11-14T22:57:12.253500400Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://www.w3schools.com/django/index.php",
+    "title": "Django Tutorial",
+    "found_at": "https://www.w3schools.com/js/",
+    "timestamp": "2024-11-14T22:57:12.032629200Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://www.w3schools.com/dsa/index.php",
+    "title": "DSA Tutorial",
+    "found_at": "https://www.w3schools.com/js/",
+    "timestamp": "2024-11-14T22:56:59.529813900Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://www.w3schools.com/excel/index.php",
+    "title": "Excel Tutorial",
+    "found_at": "https://www.w3schools.com/js/",
+    "timestamp": "2024-11-14T22:57:01.198819600Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://www.w3schools.com/gen_ai/bard/index.php",
+    "title": "Bard Tutorial",
+    "found_at": "https://www.w3schools.com/js/",
+    "timestamp": "2024-11-14T22:56:58.903982700Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://www.w3schools.com/gen_ai/chatgpt-3-5/index.php",
+    "title": "ChatGPT-3.5 Tutorial",
+    "found_at": "https://www.w3schools.com/js/",
+    "timestamp": "2024-11-14T22:56:58.418681600Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://www.w3schools.com/gen_ai/chatgpt-4/index.php",
+    "title": "ChatGPT-4 Tutorial",
+    "found_at": "https://www.w3schools.com/js/",
+    "timestamp": "2024-11-14T22:56:58.636871400Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://www.w3schools.com/gen_ai/index.php",
+    "title": "Generative AI Tutorial",
+    "found_at": "https://www.w3schools.com/js/",
+    "timestamp": "2024-11-14T22:56:58.180343900Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://www.w3schools.com/git/default.asp",
+    "title": "Git Tutorial",
+    "found_at": "https://www.w3schools.com/js/",
+    "timestamp": "2024-11-14T22:57:14.001768300Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://www.w3schools.com/go/index.php",
+    "title": "Go Tutorial",
+    "found_at": "https://www.w3schools.com/js/",
+    "timestamp": "2024-11-14T22:57:11.813069400Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://www.w3schools.com/googlesheets/index.php",
+    "title": "Google Sheets Tutorial",
+    "found_at": "https://www.w3schools.com/js/",
+    "timestamp": "2024-11-14T22:57:01.423708800Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://www.w3schools.com/graphics/canvas_intro.asp",
+    "title": "HTML Canvas Tutorial",
+    "found_at": "https://www.w3schools.com/js/",
+    "timestamp": "2024-11-14T22:56:56.038091500Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://www.w3schools.com/graphics/canvas_reference.asp",
+    "title": "Canvas API",
+    "found_at": "https://www.w3schools.com/js/",
+    "timestamp": "2024-11-14T22:56:56.955920700Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://www.w3schools.com/graphics/default.asp",
+    "title": "HTML Graphics",
+    "found_at": "https://www.w3schools.com/js/",
+    "timestamp": "2024-11-14T22:56:57.207414100Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://www.w3schools.com/graphics/svg_intro.asp",
+    "title": "SVG Tutorial",
+    "found_at": "https://www.w3schools.com/js/",
+    "timestamp": "2024-11-14T22:56:55.582945700Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://www.w3schools.com/graphics/svg_reference.asp",
+    "title": "SVG Reference",
+    "found_at": "https://www.w3schools.com/js/",
+    "timestamp": "2024-11-14T22:56:55.816692600Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://www.w3schools.com/howto/default.asp",
+    "title": "W3Schools How TO - Code snippets for HTML, CSS and JavaScript",
+    "found_at": "https://www.w3schools.com/js/",
+    "timestamp": "2024-11-14T22:56:57.674962200Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://www.w3schools.com/html",
+    "title": "HTML Tutorial",
+    "found_at": "starting_point",
+    "timestamp": "2024-11-14T22:57:46.274943500Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://www.w3schools.com/html/default.asp",
+    "title": "HTML Tutorial",
+    "found_at": "https://www.w3schools.com/js/",
+    "timestamp": "2024-11-14T22:56:50.761698100Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://www.w3schools.com/html/html_exercises.asp",
+    "title": "HTML Exercises",
+    "found_at": "https://www.w3schools.com/js/",
+    "timestamp": "2024-11-14T22:57:15.102950500Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://www.w3schools.com/icons/default.asp",
+    "title": "Icons Tutorial",
+    "found_at": "https://www.w3schools.com/js/",
+    "timestamp": "2024-11-14T22:56:54.805974300Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://www.w3schools.com/icons/icons_reference.asp",
+    "title": "Icons from Font Awesome, Bootstrap and Google",
+    "found_at": "https://www.w3schools.com/js/",
+    "timestamp": "2024-11-14T22:56:55.304595800Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://www.w3schools.com/java/default.asp",
+    "title": "Java Tutorial",
+    "found_at": "https://www.w3schools.com/js/",
+    "timestamp": "2024-11-14T22:57:09.826435600Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://www.w3schools.com/java/java_ref_reference.asp",
+    "title": "Java Reference Documentation",
+    "found_at": "https://www.w3schools.com/js/",
+    "timestamp": "2024-11-14T22:57:10.060435500Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://www.w3schools.com/jquery/default.asp",
+    "title": "jQuery Tutorial",
+    "found_at": "https://www.w3schools.com/js/",
+    "timestamp": "2024-11-14T22:57:04.715998800Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://www.w3schools.com/jquery/jquery_ref_overview.asp",
+    "title": "jQuery Reference",
+    "found_at": "https://www.w3schools.com/js/",
+    "timestamp": "2024-11-14T22:57:04.935525500Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://www.w3schools.com/js/",
+    "title": "JavaScript Tutorial",
+    "found_at": "starting_point",
+    "timestamp": "2024-11-14T22:56:49.057207400Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://www.w3schools.com/js/default.asp",
+    "title": "JavaScript Tutorial",
+    "found_at": "https://www.w3schools.com/js/",
+    "timestamp": "2024-11-14T22:57:03.840530Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://www.w3schools.com/js/js_ajax_intro.asp",
+    "title": "AJAX Introduction",
+    "found_at": "https://www.w3schools.com/js/",
+    "timestamp": "2024-11-14T22:57:06.759596800Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://www.w3schools.com/js/js_json_intro.asp",
+    "title": "JSON Introduction",
+    "found_at": "https://www.w3schools.com/js/",
+    "timestamp": "2024-11-14T22:57:06.134367800Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://www.w3schools.com/jsref/default.asp",
+    "title": "JavaScript and HTML DOM Reference",
+    "found_at": "https://www.w3schools.com/js/",
+    "timestamp": "2024-11-14T22:57:04.234091100Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://www.w3schools.com/jsref/jsref_obj_json.asp",
+    "title": "JavaScript JSON Reference",
+    "found_at": "https://www.w3schools.com/js/",
+    "timestamp": "2024-11-14T22:57:06.509924Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://www.w3schools.com/kotlin/index.php",
+    "title": "Kotlin Tutorial",
+    "found_at": "https://www.w3schools.com/js/",
+    "timestamp": "2024-11-14T22:57:11.597112300Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://www.w3schools.com/mongodb/index.php",
+    "title": "MongoDB Tutorial",
+    "found_at": "https://www.w3schools.com/js/",
+    "timestamp": "2024-11-14T22:57:14.216074400Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://www.w3schools.com/mysql/default.asp",
+    "title": "MySQL Tutorial",
+    "found_at": "https://www.w3schools.com/js/",
+    "timestamp": "2024-11-14T22:57:08.842051400Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://www.w3schools.com/mysql/mysql_datatypes.asp",
+    "title": "MySQL Data Types",
+    "found_at": "https://www.w3schools.com/js/",
+    "timestamp": "2024-11-14T22:57:09.067325900Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://www.w3schools.com/nodejs/default.asp",
+    "title": "Node.js Tutorial",
+    "found_at": "https://www.w3schools.com/js/",
+    "timestamp": "2024-11-14T22:57:13.342685900Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://www.w3schools.com/nodejs/nodejs_raspberrypi.asp",
+    "title": "Node.js and Raspberry Pi",
+    "found_at": "https://www.w3schools.com/js/",
+    "timestamp": "2024-11-14T22:57:13.783456700Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://www.w3schools.com/nodejs/ref_modules.asp",
+    "title": "Node.js Built-in Modules",
+    "found_at": "https://www.w3schools.com/js/",
+    "timestamp": "2024-11-14T22:57:13.560398600Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://www.w3schools.com/php/default.asp",
+    "title": "PHP Tutorial",
+    "found_at": "https://www.w3schools.com/js/",
+    "timestamp": "2024-11-14T22:57:09.316717600Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://www.w3schools.com/php/php_ref_overview.asp",
+    "title": "PHP Reference",
+    "found_at": "https://www.w3schools.com/js/",
+    "timestamp": "2024-11-14T22:57:09.580547900Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://www.w3schools.com/plus/index.php",
+    "title": "Become a Plus User at W3schools - Upgrade to Improve Your Learning Experience",
+    "found_at": "https://www.w3schools.com/js/",
+    "timestamp": "2024-11-14T22:56:50.151602600Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://www.w3schools.com/postgresql/index.php",
+    "title": "PostgreSQL Tutorial",
+    "found_at": "https://www.w3schools.com/js/",
+    "timestamp": "2024-11-14T22:57:12.471632800Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://www.w3schools.com/python/default.asp",
+    "title": "Python Tutorial",
+    "found_at": "https://www.w3schools.com/js/",
+    "timestamp": "2024-11-14T22:57:07.912713400Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://www.w3schools.com/python/matplotlib_intro.asp",
+    "title": "Matplotlib Tutorial",
+    "found_at": "https://www.w3schools.com/js/",
+    "timestamp": "2024-11-14T22:57:00.732216300Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://www.w3schools.com/python/numpy/default.asp",
+    "title": "NumPy Tutorial",
+    "found_at": "https://www.w3schools.com/js/",
+    "timestamp": "2024-11-14T22:57:00.030965900Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://www.w3schools.com/python/pandas/default.asp",
+    "title": "Pandas Tutorial",
+    "found_at": "https://www.w3schools.com/js/",
+    "timestamp": "2024-11-14T22:57:00.271700700Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://www.w3schools.com/python/python_ml_getting_started.asp",
+    "title": "Python Machine Learning",
+    "found_at": "https://www.w3schools.com/js/",
+    "timestamp": "2024-11-14T22:56:59.186217200Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://www.w3schools.com/python/python_reference.asp",
+    "title": "Python Reference",
+    "found_at": "https://www.w3schools.com/js/",
+    "timestamp": "2024-11-14T22:57:08.138840700Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://www.w3schools.com/python/scipy/index.php",
+    "title": "SciPy Tutorial",
+    "found_at": "https://www.w3schools.com/js/",
+    "timestamp": "2024-11-14T22:57:00.488967700Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://www.w3schools.com/r/default.asp",
+    "title": "R Tutorial",
+    "found_at": "https://www.w3schools.com/js/",
+    "timestamp": "2024-11-14T22:57:11.382455900Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://www.w3schools.com/react/default.asp",
+    "title": "React Tutorial",
+    "found_at": "https://www.w3schools.com/js/",
+    "timestamp": "2024-11-14T22:57:04.481449700Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://www.w3schools.com/sass/default.php",
+    "title": "Sass Tutorial",
+    "found_at": "https://www.w3schools.com/js/",
+    "timestamp": "2024-11-14T22:56:53.867990400Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://www.w3schools.com/sass/sass_functions_string.php",
+    "title": "Sass String Functions",
+    "found_at": "https://www.w3schools.com/js/",
+    "timestamp": "2024-11-14T22:56:54.095768700Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://www.w3schools.com/spaces/index.php",
+    "title": "Create a Free Website | Website Builder | W3Schools.com | W3Schools Spaces",
+    "found_at": "https://www.w3schools.com/js/",
+    "timestamp": "2024-11-14T22:56:49.598429700Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://www.w3schools.com/sql",
+    "title": "SQL Tutorial",
+    "found_at": "starting_point",
+    "timestamp": "2024-11-14T22:58:37.996019800Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://www.w3schools.com/sql/default.asp",
+    "title": "SQL Tutorial",
+    "found_at": "https://www.w3schools.com/js/",
+    "timestamp": "2024-11-14T22:57:08.370510900Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://www.w3schools.com/sql/sql_ref_keywords.asp",
+    "title": "SQL Keywords Reference",
+    "found_at": "https://www.w3schools.com/js/",
+    "timestamp": "2024-11-14T22:57:08.610883900Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://www.w3schools.com/statistics/index.php",
+    "title": "Statistics Tutorial",
+    "found_at": "https://www.w3schools.com/js/",
+    "timestamp": "2024-11-14T22:57:00.970774900Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://www.w3schools.com/tags/default.asp",
+    "title": "HTML Reference",
+    "found_at": "https://www.w3schools.com/js/",
+    "timestamp": "2024-11-14T22:56:51.530700400Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://www.w3schools.com/tryit/default.asp",
+    "title": "W3Schools Online Code Editor - Tryit Yourself",
+    "found_at": "https://www.w3schools.com/js/",
+    "timestamp": "2024-11-14T22:57:02.540575100Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://www.w3schools.com/typescript",
+    "title": "TypeScript Tutorial",
+    "found_at": "starting_point",
+    "timestamp": "2024-11-14T22:59:03.248034400Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://www.w3schools.com/typescript/index.php",
+    "title": "TypeScript Tutorial",
+    "found_at": "https://www.w3schools.com/js/",
+    "timestamp": "2024-11-14T22:57:12.686765300Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://www.w3schools.com/typingspeed/default.asp",
+    "title": "Typing Speed Test - W3Schools",
+    "found_at": "https://www.w3schools.com/js/",
+    "timestamp": "2024-11-14T22:57:02.780109200Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://www.w3schools.com/vue/index.php",
+    "title": "Vue Tutorial",
+    "found_at": "https://www.w3schools.com/js/",
+    "timestamp": "2024-11-14T22:57:05.160790800Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://www.w3schools.com/vue/vue_ref_builtin-attributes.php",
+    "title": "Vue Built-in Attributes",
+    "found_at": "https://www.w3schools.com/js/",
+    "timestamp": "2024-11-14T22:57:05.388138600Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://www.w3schools.com/w3css/default.asp",
+    "title": "W3.CSS Home",
+    "found_at": "https://www.w3schools.com/js/",
+    "timestamp": "2024-11-14T22:56:53.370367100Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://www.w3schools.com/w3css/w3css_references.asp",
+    "title": "W3.CSS Reference",
+    "found_at": "https://www.w3schools.com/js/",
+    "timestamp": "2024-11-14T22:56:53.630446Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://www.w3schools.com/w3css/w3css_templates.asp",
+    "title": "W3.CSS Templates",
+    "found_at": "https://www.w3schools.com/js/",
+    "timestamp": "2024-11-14T22:57:01.867167400Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://www.w3schools.com/w3js/default.asp",
+    "title": "W3.JS HOME",
+    "found_at": "https://www.w3schools.com/js/",
+    "timestamp": "2024-11-14T22:57:07.442697100Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://www.w3schools.com/w3js/w3js_references.asp",
+    "title": "W3.JS References",
+    "found_at": "https://www.w3schools.com/js/",
+    "timestamp": "2024-11-14T22:57:07.657652300Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://www.w3schools.com/whatis/default.asp",
+    "title": "Web Development",
+    "found_at": "https://www.w3schools.com/js/",
+    "timestamp": "2024-11-14T22:57:02.320053Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://www.w3schools.com/where_to_start.asp",
+    "title": "W3Schools - How To Become a Web Developer (Complete Beginners Getting Started With Web Development)",
+    "found_at": "https://www.w3schools.com/js/",
+    "timestamp": "2024-11-14T22:57:01.643146200Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://www.w3schools.com/xml/default.asp",
+    "title": "XML Tutorial",
+    "found_at": "https://www.w3schools.com/js/",
+    "timestamp": "2024-11-14T22:57:14.657673300Z",
+    "status_code": 200
+  },
+  {
+    "url": "https://www.w3schools.com/xml/dom_nodetype.asp",
+    "title": "XML DOM - Node Types",
+    "found_at": "https://www.w3schools.com/js/",
+    "timestamp": "2024-11-14T22:57:14.878035200Z",
+    "status_code": 200
+  }
+]

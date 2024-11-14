@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang='en'>
+<head>
+    <title>Enhanced AI Search System</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+        /* Previous CSS styles remain the same */
+    </style>
+</head>
+<body>
+    <div class="search-container">
+        <h1>Enhanced AI Search System</h1>
+        <input type="text" id="searchInput" class="search-box" placeholder="Ask a question...">
+        <button onclick="performSearch()" class="search-button">Search</button>
+        
+        <div id="loading" class="loading">
+            <div class="loading-spinner"></div>
+            <p>Processing your query...</p>
+        </div>
+
+        <div class="results-container">
+            <div class="results-main" id="results"></div>
+            <div class="results-sidebar" id="sidebar"></div>
+        </div>
+    </div>
+
+    <script>
+        async function performSearch() {
+            const searchInput = document.getElementById('searchInput').value;
+            const resultsDiv = document.getElementById('results');
+            const sidebarDiv = document.getElementById('sidebar');
+            const loadingDiv = document.getElementById('loading');
+            
+            if (!searchInput.trim()) return;
+            
+            resultsDiv.innerHTML = '';
+            sidebarDiv.innerHTML = '';
+            loadingDiv.style.display = 'block';
+            
+            try {
+                const response = await fetch('/search', {
+                    method: 'POST',
+                    headers: {
+                        'Content-Type': 'application/json',
+                    },
+                    body: JSON.stringify({ query: searchInput })
+                });
+                
+                const data = await response.json();
+                loadingDiv.style.display = 'none';
+                
+                // Display overall summary in sidebar
+                if (data.overall_summary) {
+                    sidebarDiv.innerHTML = `
+                        <div class="overall-summary">
+                            <div class="summary-title">Key Takeaways</div>
+                            <p>${data.overall_summary}</p>
+                        </div>
+                    `;
+                }
+                
+                // Display individual results
+                if (data.results && data.results.length > 0) {
+                    data.results.forEach(result => {
+                        const resultElement = document.createElement('div');
+                        resultElement.className = 'result-item';
+                        
+                        const keyPointsHtml = result.key_points && result.key_points.length ? `
+                            <div class="key-points">
+                                <strong>Key Points:</strong>
+                                <ul>
+                                    ${result.key_points.map(point => `<li>${point}</li>`).join('')}
+                                </ul>
+                            </div>
+                        ` : '';
+                        
+                        resultElement.innerHTML = `
+                            <div class="result-title">${result.title}</div>
+                            <div class="result-meta">
+                                <span>Source: ${result.url}</span>
+                                <span>Relevance: ${(result.similarity * 100).toFixed(1)}%</span>
+                            </div>
+                            <div class="result-summary">
+                                <strong>Summary:</strong>
+                                <p>${result.summary || result.chunk}</p>
+                            </div>
+                            ${keyPointsHtml}
+                        `;
+                        
+                        resultsDiv.appendChild(resultElement);
+                    });
+                } else {
+                    resultsDiv.innerHTML = '<div class="result-item">No results found</div>';
+                }
+                
+            } catch (error) {
+                loadingDiv.style.display = 'none';
+                resultsDiv.innerHTML = `<div class="result-item">Error: ${error.message}</div>`;
+            }
+        }
+
+        // Allow search on Enter key
+        document.getElementById('searchInput').addEventListener('keypress', function(e) {
+            if (e.key === 'Enter') {
+                performSearch();
+            }
+        });
+    </script>
+</body>
+</html>
